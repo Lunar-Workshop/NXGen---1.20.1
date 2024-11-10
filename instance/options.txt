@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -13,7 +13,7 @@ invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
-directionalAudio:false
+directionalAudio:true
 touchscreen:false
 fullscreen:false
 bobView:true
@@ -41,12 +41,12 @@ graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/Whimscape_1.20-1.20.1_r3.zip","file/Whimscape_Leaves_1.20_r1.zip","file/FreshAnimations_v1.9.2.zip","file/Whimscape_x_FreshAnimations_1.20-1.20.1_r2.zip"]
-incompatibleResourcePacks:[]
+renderClouds:"false"
+resourcePacks:["vanilla","mod_resources","FreshAnimations_v1.9.2.zip","Whimscape x RPG Series.zip","Whimscape x Trinkets 1.3.zip","Whimscape_1.20-1.20.1_r3.zip","Whimscape_Leaves_1.20_r1.zip","Whimscape_x_EMI_1.20-1.20.4.zip","Whimscape_x_FreshAnimations_1.20-1.20.1_r2.zip","file/Simple Create Radios V1.2.zip"]
+incompatibleResourcePacks:["Whimscape x RPG Series.zip"]
 lastServer:
 lang:en_us
-soundDevice:""
+soundDevice:"OpenAL Soft on Headphones (HyperX Cloud Alpha Wireless)"
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -93,8 +93,8 @@ key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.control
 key_key.sprint:key.keyboard.left.shift
-key_key.drop:key.keyboard.tab
-key_key.inventory:key.keyboard.e
+key_key.drop:key.keyboard.q
+key_key.inventory:key.keyboard.tab
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.grave.accent
 key_key.pickItem:key.mouse.middle
@@ -118,8 +118,22 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_placebo.toggleTrails:key.keyboard.keypad.9
+key_placebo.toggleWings:key.keyboard.keypad.8
+key_fpsreducer.key.openGui:key.keyboard.end
+key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_key.push_to_talk:key.keyboard.caps.lock
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.m
+key_key.disable_voice_chat:key.keyboard.n
+key_key.hide_icons:key.keyboard.h
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.05017400917130693
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
