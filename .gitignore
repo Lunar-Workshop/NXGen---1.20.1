@@ -3,3 +3,8 @@
 /.obsidian
 /.install_audit
 instance.json
+/instance/resourcepacks
+/instance/saves
+/instance/mods
+instance/usercache.json
+instance/usernamecache.json
