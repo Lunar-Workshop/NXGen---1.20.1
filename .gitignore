@@ -8,3 +8,5 @@ instance.json
 /instance/mods
 instance/usercache.json
 instance/usernamecache.json
+instance/config/etf_warnings.json
+instance/config/embeddium-fingerprint.json
