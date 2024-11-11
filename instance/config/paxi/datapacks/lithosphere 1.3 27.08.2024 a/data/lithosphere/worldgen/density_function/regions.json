@@ -1,0 +1,42 @@
+//[df-editor]:{"pos":[504,1410],"collapsed":false}
+{
+  //[df-editor]:{"pos":[3,1409],"collapsed":false}
+  "type": "minecraft:spline",
+  "spline": {
+    "coordinate": {
+      //[df-editor]:{"pos":[-346,1410],"collapsed":false}
+      "type": "clamp",
+      "min": -1.0,
+      "max": 1.0,
+      "input": {
+        //[df-editor]:{"pos":[-658,1411],"collapsed":false}
+        "type": "noise",
+        "noise": "lithosphere:continent_regions",
+        "xz_scale": 5.2,
+        "y_scale": 0
+      }
+    },
+    "points": [
+      {
+        "location": 0.130,
+        "value": 0.0,
+        "derivative": 0
+      },
+      {
+        "location": 0.50,
+        "value": 0.9,
+        "derivative": 0
+      },
+      {
+        "location": 0.9,
+        "value": 0.9,
+        "derivative": 0
+      },
+      {
+        "location": 1,
+        "value": 1,
+        "derivative": 1
+      }
+    ]
+  }
+}

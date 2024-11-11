@@ -1,0 +1,15 @@
+//[df-editor]:{"pos":[900,275],"collapsed":false}
+{
+  //[df-editor]:{"pos":[650,400],"collapsed":false}
+  "type": "flat_cache",
+  "argument": {
+    //[df-editor]:{"pos":[400,400],"collapsed":false}
+    "type": "cache_2d",
+    "argument": {
+      //[df-editor]:{"pos":[5,373],"collapsed":false}
+      "type": "add",
+      "argument1": "lithosphere:mesas", //[df-editor]:{"pos":[-564,379],"collapsed":false}
+      "argument2": "lithosphere:lakes_depth" //[df-editor]:{"pos":[-448,534],"collapsed":false}
+    }
+  }
+}

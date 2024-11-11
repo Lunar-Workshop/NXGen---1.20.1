@@ -1,0 +1,81 @@
+//[df-editor]:{"pos":[900,500],"collapsed":false}
+{
+  //[df-editor]:{"pos":[650,625],"collapsed":false}
+  "type": "clamp",
+  "min": -3,
+  "max": 3,
+  "input": {
+    //[df-editor]:{"pos":[400,625],"collapsed":false}
+    "type": "add",
+    "argument1": {
+      //[df-editor]:{"pos":[-21,205],"collapsed":false}
+      "type": "minecraft:spline",
+      "spline": {
+        "coordinate": {
+          //[df-editor]:{"pos":[-372,187],"collapsed":false}
+          "type": "noise",
+          "noise": "lithosphere:continentalness",
+          "xz_scale": 1.2,
+          "y_scale": 0
+        },
+        "points": [
+          {
+            "location": -0.8782608695652174,
+            "value": -0.25939130434782653,
+            "derivative": 1
+          },
+          {
+            "location": 0.8782608695652174,
+            "value": 0.2565217391304342,
+            "derivative": 1
+          }
+        ]
+      }
+    },
+    "argument2": {
+      //[df-editor]:{"pos":[170,671],"collapsed":false}
+      "type": "mul",
+      "argument1": -1, //[df-editor]:{"pos":[-111,573],"collapsed":true}
+      "argument2": {
+        //[df-editor]:{"pos":[-100,700],"collapsed":false}
+        "type": "minecraft:spline",
+        "spline": {
+          "coordinate": {
+            //[df-editor]:{"pos":[-350,700],"collapsed":false}
+            "type": "noise",
+            "noise": "lithosphere:continent_trenches",
+            "xz_scale": 1,
+            "y_scale": 0
+          },
+          "points": [
+            {
+              "location": -1,
+              "value": -1,
+              "derivative": 0
+            },
+            {
+              "location": -0.75,
+              "value": -1,
+              "derivative": 0
+            },
+            {
+              "location": 0,
+              "value": 0.6,
+              "derivative": 0
+            },
+            {
+              "location": 0.75,
+              "value": -1,
+              "derivative": 0
+            },
+            {
+              "location": 1,
+              "value": -1,
+              "derivative": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+//[df-editor]:{"pos":[900,275],"collapsed":false}
+{
+  //[df-editor]:{"pos":[650,400],"collapsed":false}
+  "type": "add",
+  "argument1": {
+    //[df-editor]:{"pos":[119,316],"collapsed":false}
+    "type": "y_clamped_gradient",
+    "from_y": -64,
+    "to_y": 320,
+    "from_value": 1.5,
+    "to_value": -1.5
+  },
+  "argument2": "lithosphere:topography_final" //[df-editor]:{"pos":[130,548],"collapsed":false}
+}
