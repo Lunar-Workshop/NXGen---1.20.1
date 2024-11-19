@@ -10,5 +10,10 @@ If i go with better end make sure to grab dynamic tree compat
 review ecologics if it goes in dynamic tree compat
 >>>>>>> Stashed changes
 
-Consider yungs better end island noted incompats may be issue
+
 Condsider ogre community and other mods by the same dev
+
+Alternative to Valkyrin Skies if incompatible - https://modrinth.com/mod/yungs-better-end-island
+Consider yungs better end island noted incompats may be issue
+
+review saltys realistic forging

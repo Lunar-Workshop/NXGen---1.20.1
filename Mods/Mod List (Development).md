@@ -49,6 +49,18 @@
 	- **YungsApi-1.20-Fabric-4.0.6**
 		- Required By
 			- Paxi
+			- Yung's 
+				- Yung's Better Mineshafts
+				- Yung's Better Strongholds
+				- Yung's Better Nether Fortresses
+				- Yung's Better Ocean Monuments
+				- Yung's Better Witch Huts
+				- Yung's Better Bridges
+				- Yung's Better Dungeon
+				- Yung's  Cave Biome
+				- Yung's Better Jungle Temples
+				- Yung's Better Desert Temples
+				- Yung's Extras
 - Glitch Core
 	- https://modrinth.com/mod/glitchcore
 	- **GlitchCore-forge-1.20.1-0.0.1.1**
@@ -94,6 +106,22 @@
 	- create-1.20.1-0.5.1.j
 		- Required By
 				- Dynamic Trees Create Compat
+- Geckolib
+	- https://modrinth.com/mod/geckolib
+	- geckolib-neoforge-1.20.1-4.4.9
+		- Required By:
+				- Yung's Cave Biome
+				- Realm RPG - Pots and Mimics
+- TerraBlender
+	- https://modrinth.com/mod/terrablender
+	- **TerraBlender-forge-1.20.1-3.0.1.7
+		- Required By:
+				- Yung's Cave Biome
+- Cristel Lib
+	- https://legacy.curseforge.com/minecraft/mc-mods/cristel-lib
+	- cristellib-1.1.5-forge
+		- Required by:
+			- Towns and Towers
 #### **Performance**
 - Noisium
 	- https://www.curseforge.com/minecraft/mc-mods/noisium
@@ -118,21 +146,61 @@
 	- **FpsReducer2-forge-1.20-2.5**
 
 #### **World Generation**
-- Lithosphere 
-	- https://www.curseforge.com/minecraft/mc-mods/lithosphere
-	- lithosphere 1.2 25.06.2024
-- Distant Horizons
-	- https://www.curseforge.com/minecraft/mc-mods/distant-horizons
-	- DistantHorizons-2.2.1-a-1.20.1-forge-fabric
-- Stony Cliffs are Cool
-	- https://modrinth.com/datapack/stony-cliffs-are-cool
-	- **Stony Cliffs for Lithostitched v1.1.2**
-- Blossom Blade
-	- https://modrinth.com/datapack/blossom-blade
-	- **blossom-blade-1.2** 
-- Sparse Structures Reforged
-	- https://modrinth.com/mod/sparsestructuresreforged
-	- **sparsestructuresreforged-1.20.1-0.0.1**
+- Environment:
+	- Lithosphere 
+		- https://www.curseforge.com/minecraft/mc-mods/lithosphere
+		- lithosphere 1.2 25.06.2024
+	- Distant Horizons
+		- https://www.curseforge.com/minecraft/mc-mods/distant-horizons
+		- DistantHorizons-2.2.1-a-1.20.1-forge-fabric
+	- Stony Cliffs are Cool
+		- https://modrinth.com/datapack/stony-cliffs-are-cool
+		- **Stony Cliffs for Lithostitched v1.1.2**
+	- Blossom Blade
+		- https://modrinth.com/datapack/blossom-blade
+		- **blossom-blade-1.2** 
+- Structures:
+	- Sparse Structures Reforged
+		- https://modrinth.com/mod/sparsestructuresreforged
+		- **sparsestructuresreforged-1.20.1-0.0.1**
+	- Towns and Towers
+		- https://legacy.curseforge.com/minecraft/mc-mods/towns-and-towers
+		- Towns-and-Towers-1.11.1-Fabric+Forge
+	- Yung's Mods
+		- Yung's Better Mineshaft
+			- https://modrinth.com/mod/yungs-better-mineshafts
+			- YungsBetterMineshafts-1.20-Forge-4.0.4
+		- Yung's Better Strongholds
+			- https://modrinth.com/mod/yungs-better-strongholds
+			- YungsBetterStrongholds-1.20-Forge-4.0.3
+		- Yung's Better Nether Fortresses
+			- https://modrinth.com/mod/yungs-better-nether-fortresses
+			- YungsBetterNetherFortresses-1.20-Forge-2.0.6
+		- Yung's Better Ocean Monuments
+			- https://modrinth.com/mod/yungs-better-ocean-monuments
+			- YungsBetterOceanMonuments-1.20-Forge-3.0.4
+		- Yung's Better Witch Huts
+			- https://modrinth.com/mod/yungs-better-witch-huts
+			- YungsBetterWitchHuts-1.20-Forge-3.0.3
+		- Yung's Bridges
+			- https://modrinth.com/mod/yungs-bridges
+			- YungsBridges-1.20-Forge-4.0.3
+		- Yung's Better Dungeons
+			- https://modrinth.com/mod/yungs-better-dungeons
+			- **YungsBetterDungeons-1.20-Forge-4.0.4**
+		- Yung's Cave Biomes
+			- https://modrinth.com/mod/yungs-cave-biomes
+			- **YungsCaveBiomes-1.20.1-Forge-2.0.1**
+		- Yung's Better Jungle Temple
+			- https://modrinth.com/mod/yungs-better-jungle-temples
+			- YungsBetterJungleTemples-1.20-Forge-2.0.5
+		- Yung's Better Desert Temples
+			- https://modrinth.com/mod/yungs-better-desert-temples
+			- YungsBetterDesertTemples-1.20-Forge-3.0.3
+		- Yung's Extras
+			- https://modrinth.com/mod/yungs-extras
+			- YungsExtras-1.20-Forge-4.0.3
+
 
 
 #### **Rendering Engines Mods:**
@@ -170,6 +238,9 @@
 - EMI
 	- https://modrinth.com/mod/emi
 	- **emi-1.1.18+1.20.1+forge**
+- Loot Beams: Relooted
+	- https://modrinth.com/mod/loot-beams
+	- **lootbeams-1.20.1-1.2.2**
 #### **Graphics**
 
 #### **Audio**
@@ -194,28 +265,40 @@
 	- **VibrativeVoice-forge-1.20.1-1.1.0**
 
 #### **Gameplay**
-
-#### - Bug Fixes
-- Nether Portal Fix
-	- https://modrinth.com/mod/netherportalfix
-	- **netherportalfix-forge-1.20-13.0.0**
-
-#### - Character
-
-#### - Mobs
-
-- Animals
-	- Aquaculture 2
-		- https://www.curseforge.com/minecraft/mc-mods/aquaculture
-		- Aquaculture-1.20.1-2.5.1
-	- Alex's Mobs
-		- https://modrinth.com/mod/alexs-mobs
-		- **alexsmobs-1.22.9**
-	- 
-- Villagers
-	- Guard Villagers
-		- https://modrinth.com/mod/guard-villagers
-		- **guardvillagers-1.20.1-1.6.7**
+- Bug Fixes
+	- Nether Portal Fix
+		- https://modrinth.com/mod/netherportalfix
+		- **netherportalfix-forge-1.20-13.0.0**
+- Loot
+	- Realm RPG - Pots and Mimics
+		- https://www.curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg
+		- realmrpg_pots_and_mimics_1.0.2_forge_1.20.1
+	- Lootr
+		- https://www.curseforge.com/minecraft/mc-mods/lootr
+		- lootr-forge-1.20-0.7.34.89
+- Character
+	- Realm RPG Fallen Adventurers
+		- https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers
+		- realmrpg_fallen_adventurers_1.0.3_forge_1.20.1
+- Transport
+	- Valkyrien Skies
+		- https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies
+		- valkyrienskies-120-2.3.0-beta.5
+	- Clockwork: Create X Valkyrien Skies
+		- https://www.curseforge.com/minecraft/mc-mods/create-clockwork
+		- clockwork-1.20.1-0.1.16-forge-b3b22e39fe
+- Mobs
+	- Animals
+		- Aquaculture 2
+			- https://www.curseforge.com/minecraft/mc-mods/aquaculture
+			- Aquaculture-1.20.1-2.5.1
+		- Alex's Mobs
+			- https://modrinth.com/mod/alexs-mobs
+			- **alexsmobs-1.22.9**
+	- Villagers
+		- Guard Villagers
+			- https://modrinth.com/mod/guard-villagers
+			- **guardvillagers-1.20.1-1.6.7**
 
 ### **Environment**
 - Weather 
