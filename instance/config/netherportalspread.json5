@@ -18,7 +18,7 @@
 	"portalSpreadRadius": 100,
 	// The delay in ticks in between the spread around the nether portal. 20 ticks = 1 second.
 	// min: 1, max: 72000
-	"spreadDelayTicks": 40,
+	"spreadDelayTicks": 600,
 	// The amount of blocks that are instantly converted to a nether block around a portal when it is detected. If there are existing nether blocks within the radius, their count is substracted from this number.
 	// min: 0, max: 1000
 	"instantConvertAmount": 1,
