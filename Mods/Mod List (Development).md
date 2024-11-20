@@ -20,6 +20,7 @@
 		- Required By:
 				- Sinytra Connector
 				- Ambient Sounds
+				- Maslik's Puzzle Dungeon
 - Toad Lib
 	- https://modrinth.com/mod/toadlib
 	- **ToadLib-1.20.1-1.1.4**
@@ -81,6 +82,7 @@
 	- **collective-1.20.1-7.87**
 		- Required By:
 				- Nether Portal Spread
+				- Realistic Bees
 - Balm
 	- https://modrinth.com/mod/balm
 	- **balm-forge-1.20.1-7.3.9**
@@ -112,6 +114,7 @@
 		- Required By:
 				- Yung's Cave Biome
 				- Realm RPG - Pots and Mimics
+				- Burnt
 - TerraBlender
 	- https://modrinth.com/mod/terrablender
 	- **TerraBlender-forge-1.20.1-3.0.1.7
@@ -121,7 +124,8 @@
 	- https://legacy.curseforge.com/minecraft/mc-mods/cristel-lib
 	- cristellib-1.1.5-forge
 		- Required by:
-			- Towns and Towers
+				- Towns and Towers
+
 #### **Performance**
 - Noisium
 	- https://www.curseforge.com/minecraft/mc-mods/noisium
@@ -200,6 +204,30 @@
 		- Yung's Extras
 			- https://modrinth.com/mod/yungs-extras
 			- YungsExtras-1.20-Forge-4.0.3
+	- Hopo Better Underwater Ruins
+		- https://modrinth.com/datapack/hopo-better-underwater-ruins 
+		- HopoBetterUnderwaterRuins-[1.20.2-1.20.4]-1.1.5
+	- Tidal Towns
+		- https://modrinth.com/datapack/tidal-towns
+		- tidal-towns-1.3.3_neo
+	- Better End Cities Vanilla
+		- https://modrinth.com/mod/better-end-cities-base
+		- betterendcities-1.0.0-1.20.1
+	- Masik's Puzzle Dungeon
+		- https://modrinth.com/mod/puzzle-dungeon
+		- puzzledungeon-forge-1.20.1-1.2.0
+	- Dungeon and Taverns Ancient City Overhaul
+		- https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul
+		- **dungeons-and-taverns-ancient-city-overhaul-1**
+	- Bigger Better End Cities
+		- https://modrinth.com/mod/bigger-better-end-cities
+		- biggerendcities-1.20.1-1.0.0
+	- Revamped Shipwrecks 
+		- https://modrinth.com/datapack/revamped-shipwrecks
+		- **Revamped Shipwrecks 1.0.1**
+	- Philip's Ruins
+		- https://modrinth.com/mod/philips-ruins
+		- **Philips-Ruins1.20.1-4.6**
 
 
 
@@ -276,6 +304,16 @@
 	- Lootr
 		- https://www.curseforge.com/minecraft/mc-mods/lootr
 		- lootr-forge-1.20-0.7.34.89
+-  Vanilla Mechanic Tweaks
+	- Realistic Torches
+		- https://modrinth.com/mod/realistic-torches
+		- RealisticTorches-1.20.1-3.2.0
+	- Immersive Weathering
+		- https://modrinth.com/mod/immersive-weathering
+		- **immersive_weathering-1.20.1-2.0.3-forge**
+	- Burnt
+		- https://modrinth.com/mod/burnt
+		- **burnt-1.8.3.1_forge_1.20.1**
 - Character
 	- Realm RPG Fallen Adventurers
 		- https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers
@@ -295,6 +333,9 @@
 		- Alex's Mobs
 			- https://modrinth.com/mod/alexs-mobs
 			- **alexsmobs-1.22.9**
+		- Realistic Bees
+			- https://modrinth.com/mod/realistic-bees
+			- **realisticbees-1.20.1-4.0
 	- Villagers
 		- Guard Villagers
 			- https://modrinth.com/mod/guard-villagers
@@ -311,56 +352,58 @@
 	- Snow! Real Magic!
 		- https://modrinth.com/mod/snow-real-magic
 		- **SnowRealMagic-1.20.1-forge-9.1.2**
-	- Immersive Weathering
-		- https://modrinth.com/mod/immersive-weathering
-		- **immersive_weathering-1.20.1-2.0.3-forge**
 - Botanical
 	- Glowing Torchflower
 		- https://modrinth.com/mod/glowing-torchflower
 		- **glowing-torchflower-1.20-1.1.0
-	- Dynamic Trees
-		- https://modrinth.com/mod/dynamictrees
-		- **DynamicTrees-1.20.1-1.3.3**
-	- Dynamic Trees +
-		- https://modrinth.com/mod/dynamictreesplus
-		- **DynamicTreesPlus-1.20.1-1.2.0-BETA3**
-	- Dynamic Trees - Alex's Mobs
-		- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-alexs-mobs
-		- DynamicTreesAlexsMobs-1.20.1-1.0.0
-	- Blooming Nature
+	-  Blooming Nature
 		- https://modrinth.com/mod/lets-do-bloomingnature
 		- **letsdo-bloomingnature-forge-1.0.8**
-	- Dynamic Trees - Blooming Nature
-		- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-for-bloomingnature
-		- dtbloomingnature-1.20.1-forge-1.0.2
-	- Dynamic Trees Create Compat
-		- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-create-compat
-		- dynamictrees_createcompat-1.0.1
-	- Dynamic Trees - PHC2 Trees
-		- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-pams-harvestcraft-2
-		- DynamicTreesPHC2-1.20.1-1.3.1
+	- Dynamic Trees
+		- Dynamic Trees
+			- https://modrinth.com/mod/dynamictrees
+			- **DynamicTrees-1.20.1-1.3.3**
+		- Dynamic Trees +
+			- https://modrinth.com/mod/dynamictreesplus
+			- **DynamicTreesPlus-1.20.1-1.2.0-BETA3**
+		- Dynamic Trees - Alex's Mobs
+			- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-alexs-mobs
+			- DynamicTreesAlexsMobs-1.20.1-1.0.0
+		- Dynamic Trees - Blooming Nature
+			- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-for-bloomingnature
+			- dtbloomingnature-1.20.1-forge-1.0.2
+		- Dynamic Trees Create Compat
+			- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-create-compat
+			- dynamictrees_createcompat-1.0.1
+		- Dynamic Trees - PHC2 Trees
+			- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-pams-harvestcraft-2
+			- DynamicTreesPHC2-1.20.1-1.3.1
 	- Serene Seasons - Pam's HarvestCraft 2: Trees Compat
 		- https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat
 		- sereneseasonsphc2trees-1.20.1-1.0.0
 	- Serene Seasons - Pam's HarvestCraft 2: Crops Compat
 		- https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-crops-compat
 		- sereneseasonsphc2crops-1.20.1-1.0.0
-	- Pam's Harvestcraft 2 Trees
-		- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees
-		- pamhc2trees-1.20-1.0.2
-	- Pam's Harvestcraft 2 Food Core
-		- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
-		- pamhc2foodcore-1.20.4-1.0.5
-	- Pam's Harvestcraft 2 Crops
-		- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
-		- pamhc2crops-1.20-1.0.3
-	- Pam's Harvestcraft 2 Food Extended
-		- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
-		- pamhc2foodextended-1.20.4-1.0.1
+	- Pam's Harvestcraft 2
+		- Pam's Harvestcraft 2 Trees
+			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees
+			- pamhc2trees-1.20-1.0.2
+		- Pam's Harvestcraft 2 Food Core
+			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
+			- pamhc2foodcore-1.20.4-1.0.5
+		- Pam's Harvestcraft 2 Crops
+			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
+			- pamhc2crops-1.20-1.0.3
+		- Pam's Harvestcraft 2 Food Extended
+			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
+			- pamhc2foodextended-1.20.4-1.0.1
 - Terrain
 	- Nether Portal Spread
 		- https://modrinth.com/mod/nether-portal-spread
 		- **netherportalspread-1.20.1-8.3**
+- Philip's Biome Features
+	- https://modrinth.com/mod/philips-biome-features
+	- Philips-Biome-Features1.20.1-1.6.1
 
 - Hourglass
 	- https://modrinth.com/mod/hourglass
