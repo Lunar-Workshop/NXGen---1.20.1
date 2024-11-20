@@ -6,4 +6,3 @@ Known Issue:
 	- wait for next version to see if improved
 - Realistic Campfires not working with connector, causing crashes
 	- https://modrinth.com/mod/realistic-campfires
-- 

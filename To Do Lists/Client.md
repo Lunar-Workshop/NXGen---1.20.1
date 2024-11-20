@@ -17,3 +17,7 @@ Alternative to Valkyrin Skies if incompatible - https://modrinth.com/mod/yungs-b
 Consider yungs better end island noted incompats may be issue
 
 review saltys realistic forging
+
+Simple clouds need to find a mountain during storm to ensure no clipping as currently not volumetric  (Cloud height)
+
+Consider LootR will need to be client side as well but good MP soloution to a finite map
