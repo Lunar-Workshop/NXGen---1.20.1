@@ -21,6 +21,20 @@
 				- Sinytra Connector
 				- Ambient Sounds
 				- Maslik's Puzzle Dungeon
+				- Rogues and Warriors
+				- Spell Engine
+				- Spell Power Attributes
+				- Archers
+				- Ranged Weapon API
+				- Paladins and Priests
+				- Shield API
+				- Runes
+				- Wizards
+				- Jewelry
+				- Structured Pool API
+				- Gazebos
+				- Chiseled Bookshelf Visualizer
+				- BackTools
 - Toad Lib
 	- https://modrinth.com/mod/toadlib
 	- **ToadLib-1.20.1-1.1.4**
@@ -38,6 +52,9 @@
 				- Simple Voice Chat
 				- Sound Physics Remastered
 				- Snow! Real Magic!
+				- Better Combat
+				- Spell Engine
+				- BackTools
 - Lexi Config
 	- https://modrinth.com/mod/lexiconfig
 	- **Lexiconfig-forge-1.3.11**
@@ -108,6 +125,12 @@
 	- create-1.20.1-0.5.1.j
 		- Required By
 				- Dynamic Trees Create Compat
+				- Create Steam 'n' Rails
+				- Create Enchantment Industry
+				- Create Bells & Whistles
+				- Create Design 'n' Decor
+				- Create Diesel Generators
+				- Create Numismatics
 - Geckolib
 	- https://modrinth.com/mod/geckolib
 	- geckolib-neoforge-1.20.1-4.4.9
@@ -125,6 +148,67 @@
 	- cristellib-1.1.5-forge
 		- Required by:
 				- Towns and Towers
+- Player Animator
+	- https://modrinth.com/mod/playeranimator
+	- player-animation-lib-forge-1.0.2-rc1+1.20
+		- Required By:
+				- Better Combat
+				- Spell Engine
+- AzureLib Armor
+	- https://modrinth.com/mod/azurelib-armor
+	- azurelibarmor-fabric-1.20.1-2.0.12
+		- Required by:
+				- Rogues and Warriors
+				- Archers
+				- Paladins and Priests
+				- Wizards
+				- Deathknights
+- Spell Engine
+	- https://modrinth.com/mod/spell-engine
+	- spell_engine-0.15.11+1.20.1
+		- Required By
+				- Rogues and Warriors
+				- Archers 
+				- Paladins and Priests
+				- Wizards
+				- Deathknights
+- Spell Power Attributes
+	- https://modrinth.com/mod/spell-power
+	- spell_power-0.12.0+1.20.1
+		- Required by:
+				- Spell Engine
+				- Wizards
+				- Deathknights
+				- Jewelry
+- Ranged Weapon API
+	- https://modrinth.com/mod/ranged-weapon-api
+	- ranged_weapon_api-1.1.4+1.20.1
+		- Required By
+				- Archers
+				- Jewelry
+- Shield API
+	- https://modrinth.com/mod/shield-api
+	- **ShieldAPI-1.0.1+1.20.1**
+		- Required by
+				- Paladins and Priests
+- Necronomicon
+	- https://modrinth.com/mod/necronomicon
+	- Necronomicon-Forge-1.6.0+1.20.1
+		- Require By
+				- Deathknights
+- Structured Pool API
+	- https://modrinth.com/mod/structure-pool-api
+	- **structure_pool_api-1.0+1.20.1**
+		- Required By
+				- Jewelry
+				- Gazebos
+- Yet Another Config Lib
+	- https://modrinth.com/mod/yacl
+	- yet-another-config-lib-forge-3.2.2+1.20
+		- Required By
+				- Reactive Music
+- 
+
 
 #### **Performance**
 - Noisium
@@ -147,7 +231,10 @@
 	- **EBE-1.20-1.20.1-0.9.1B**
 - FPS Reducer
 	- https://modrinth.com/mod/fps-reducer
-	- **FpsReducer2-forge-1.20-2.5**
+	- **FpsReducer2-forge-1.20-2.5
+- Remove Reloading Screen
+	- https://modrinth.com/mod/rrls
+	- rrls-4.0.6.1+mc1.20.1-forge
 
 #### **World Generation**
 - Environment:
@@ -163,6 +250,16 @@
 	- Blossom Blade
 		- https://modrinth.com/datapack/blossom-blade
 		- **blossom-blade-1.2** 
+	- The END 
+		- End Remastered
+			- https://modrinth.com/mod/endrem
+			- endrem_forge-5.3.3-R-1.20.1
+		- Nullscape
+			- https://modrinth.com/datapack/nullscape
+			- Nullscape_1.20.x_v1.2.8
+		- True Ending
+			- https://modrinth.com/datapack/true-ending
+			- tru.e-ending-v1.1.0c
 - Structures:
 	- Sparse Structures Reforged
 		- https://modrinth.com/mod/sparsestructuresreforged
@@ -238,6 +335,9 @@
 - Embeddium (Rubidium) Extras - 
 	- https://www.curseforge.com/minecraft/mc-mods/rubidium-extra
 	- rubidium-extra-0.5.4.3+mc1.20.1-build.121
+- Sodium/Embeddium Dynamic Lights
+	- https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
+	- dynamiclightsreforged-1.20.1_v1.6.0
 - ETF Entity Texture Features
 	- https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric
 	- entity_texture_features_forge_1.20.1-6.2.7
@@ -253,9 +353,6 @@
 -  Sinytra Connector
 	- https://modrinth.com/mod/connector
 	- **Connector-1.0.0-beta.46+1.20.1**
-- Connector Extras
-	- https://modrinth.com/mod/connector-extras
-	- **ConnectorExtras-1.11.2+1.20.1**
 - Paxi
 	- https://modrinth.com/mod/paxi
 	- **Paxi-1.20-Forge-4.0**
@@ -270,6 +367,12 @@
 	- https://modrinth.com/mod/loot-beams
 	- **lootbeams-1.20.1-1.2.2**
 #### **Graphics**
+
+- Lighting 
+	- True Darkness
+		- https://www.curseforge.com/minecraft/mc-mods/true-darkness-forge-updated-fork
+		- darkness-forge-1.20.1-2.0.103-fork
+	
 
 #### **Audio**
 
@@ -290,13 +393,26 @@
 	- **SimpleRadio-forge-1.20.1-2.4.6.1**
 - Vibrative Voice
 	- https://modrinth.com/mod/vibrative-voice
-	- **VibrativeVoice-forge-1.20.1-1.1.0**
+	- **VibrativeVoice-forge-1.20.1-1.1.0
+- Reactive Music
+	- https://modrinth.com/mod/reactive-music
+	- reactivemusic-0.5.1+1.20.1
 
 #### **Gameplay**
 - Bug Fixes
 	- Nether Portal Fix
 		- https://modrinth.com/mod/netherportalfix
 		- **netherportalfix-forge-1.20-13.0.0**
+- Create
+	- Create Enchantment Industry
+		- https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry
+		- create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d
+	- Create Bells & Whistles
+		- https://modrinth.com/mod/bellsandwhistles
+		- **bellsandwhistles-0.4.3-1.20.x**
+	- Create Design 'n' Decor
+		- https://modrinth.com/mod/create-design-n-decor
+		- **design_decor-0.4.0b-1.20.1**
 - Loot
 	- Realm RPG - Pots and Mimics
 		- https://www.curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg
@@ -314,10 +430,65 @@
 	- Burnt
 		- https://modrinth.com/mod/burnt
 		- **burnt-1.8.3.1_forge_1.20.1**
+	- Unlit Campfires
+		- https://modrinth.com/mod/unlit-campfire
+		- unlitcampfire-forge-1.20.1-1.9.1.1
+	- Chiseled Bookshelf Visualizer
+		- https://modrinth.com/mod/chiseled-bookshelf-visualizer
+		- Chiseled-Bookshelf-Visualizer-1.20-2.0
+	- 
+
 - Character
 	- Realm RPG Fallen Adventurers
 		- https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers
 		- realmrpg_fallen_adventurers_1.0.3_forge_1.20.1
+	- RPG Series
+		- Better Combat
+			- https://modrinth.com/mod/better-combat
+			- bettercombat-forge-1.8.0+1.20.1
+		- Rogues & Warriors
+			- https://modrinth.com/mod/rogues-and-warriors
+			- rogues-1.1.0+1.20.1
+		- Archers 
+			- https://modrinth.com/mod/archers
+			- archers-1.2.5+1.20.1
+		- Paladins and Priests
+			- https://modrinth.com/mod/paladins-and-priests
+			- paladins-1.3.1+1.20.1
+		- Trinkets
+			- https://modrinth.com/mod/trinkets
+			- trinkets-3.7.2
+				- Required by
+						- Spell Engine
+						- Jewelry
+		- Runes
+			- https://modrinth.com/mod/runes
+			- **runes-0.9.13+1.20.1**
+				- Required By
+						- Paladins and Priests
+						- Wizards
+						- Death Knights
+		- Wizards
+			- https://modrinth.com/mod/wizards
+			- wizards-1.3.0+1.20.1
+		- Death Knights 
+			- https://modrinth.com/mod/death-knights
+			- **Death_Knights-0.6.0beta+1.20.1**
+		- Jewelry
+			- https://modrinth.com/mod/jewelry
+			- Jewelry-1.3.7+1.20.1
+		- Gazebos
+			- https://modrinth.com/mod/gazebos
+			- **gazebo-1.1.1+1.20.1**
+	- Corpse
+		- https://modrinth.com/mod/corpse
+		- corpse-1.20.1-1.0.9
+	- Back Tools
+		- https://modrinth.com/mod/backtools
+		- backtools-1.20.1-2
+	- Create Numismatics
+		- https://modrinth.com/mod/numismatics
+		- **CreateNumismatics-1.0.7+forge-mc1.20.1**
 - Transport
 	- Valkyrien Skies
 		- https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies
@@ -325,6 +496,12 @@
 	- Clockwork: Create X Valkyrien Skies
 		- https://www.curseforge.com/minecraft/mc-mods/create-clockwork
 		- clockwork-1.20.1-0.1.16-forge-b3b22e39fe
+	- Create Steam 'n' Rails
+		- https://modrinth.com/mod/create-steam-n-rails
+		- **Steam_Rails-1.6.7+forge-mc1.20.1**
+	- Create Diesel Generators
+		- https://modrinth.com/mod/create-diesel-generators
+		- **createdieselgenerators-1.20.1-1.2i**
 - Mobs
 	- Animals
 		- Aquaculture 2
@@ -336,6 +513,9 @@
 		- Realistic Bees
 			- https://modrinth.com/mod/realistic-bees
 			- **realisticbees-1.20.1-4.0
+		- Snowy Sniffer
+			- https://modrinth.com/mod/snow-sniffer
+			- snowysniffer-1.20.1-1.0.0
 	- Villagers
 		- Guard Villagers
 			- https://modrinth.com/mod/guard-villagers
@@ -346,12 +526,12 @@
 	- Serene Seasons
 		- https://modrinth.com/mod/serene-seasons
 		- **SereneSeasons-1.20.1-9.0.0.43
-	- Immersive Snow
-		- https://modrinth.com/mod/immersive-snow
-		- **immersivesnow-1.20.1-1.3.0**
 	- Snow! Real Magic!
 		- https://modrinth.com/mod/snow-real-magic
 		- **SnowRealMagic-1.20.1-forge-9.1.2**
+	- Simple Clouds
+		- https://modrinth.com/mod/simple-clouds
+		- simpleclouds-0.6.3+1.20.1-forge-all
 - Botanical
 	- Glowing Torchflower
 		- https://modrinth.com/mod/glowing-torchflower
@@ -397,6 +577,9 @@
 		- Pam's Harvestcraft 2 Food Extended
 			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
 			- pamhc2foodextended-1.20.4-1.0.1
+	- Tumbleweed
+		- https://www.curseforge.com/minecraft/mc-mods/tumbleweed
+		- Tumbleweed-forge-1.20.1-0.5.5
 - Terrain
 	- Nether Portal Spread
 		- https://modrinth.com/mod/nether-portal-spread
