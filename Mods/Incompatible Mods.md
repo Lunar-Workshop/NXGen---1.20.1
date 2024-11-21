@@ -6,3 +6,5 @@ Known Issue:
 	- wait for next version to see if improved
 - Realistic Campfires not working with connector, causing crashes
 	- https://modrinth.com/mod/realistic-campfires
+- 
+- Removed and Disabled Mob Player Animator and Better Mob Combat conflicts with RPG series - mobplayeranimator-forge-1.20.1-1.3.2-all & bettermobcombat-fabric-1.20.1-1.2.4
