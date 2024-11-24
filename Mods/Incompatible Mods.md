@@ -8,4 +8,27 @@ Known Issue:
 	- https://modrinth.com/mod/realistic-campfires
 - 
 - Removed and Disabled Mob Player Animator and Better Mob Combat conflicts with RPG series - mobplayeranimator-forge-1.20.1-1.3.2-all & bettermobcombat-fabric-1.20.1-1.2.4
-sWEM EQUASTRIAN - great mod really wanted to add way to much bloat
+SWEM EQUASTRIAN - great mod really wanted to add way to much bloat
+
+- ToadLib 1.1.4 ensues wrath of the almighty THOR when you try to use enchantment table
+###### **Incompatibilities with Livestock Overhaul**
+	-  Realistic Horse Genetics
+				- https://modrinth.com/mod/realistic-horse-genetics
+				- **realistic_horse_genetics-1.20.1-13.5**
+	-  Simple Netherite Horse Armor
+				- https://modrinth.com/mod/simple-netherite-horse-armor
+				- **netherite_horse_armor-forge-1.20.1-1.0.4**
+	- Truly Custom Horse Tack
+				- https://www.curseforge.com/minecraft/mc-mods/truly-custom-horse-tack
+				- truly_custom_horse_tack-1.20.1-1.6.0
+	- Shiny Horses: Enchantable Horse Armor
+				- https://modrinth.com/mod/shiny-horses-forge
+				- **ShinyHorses-1.20.1-1.3**
+	-  Animal Armor Trims - Horse & Wolf
+				- https://modrinth.com/mod/animal-armor-trims
+				- **animal_armor_trims-neoforge-1.20.4-1.0.0**
+	- Realistic Bees
+			- https://modrinth.com/mod/realistic-bees
+			- **realisticbees-1.20.1-4.0
+			- MonoLib library removed 
+
