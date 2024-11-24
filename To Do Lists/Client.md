@@ -1,6 +1,3 @@
-**** ==PLEASE DOUBLE CHECK**==
-- ==**The versions i have put for Create Design, Diesel & Numismatics - as you went to bed without giving me these ****==
-
 Setup options.txt
 <<<<<<< Updated upstream
 
@@ -26,3 +23,5 @@ Consider LootR will need to be client side as well but good MP soloution to a fi
 
 Try True Ending Ender Dragon Music to test for any conflicts with current sound mods: 
 https://modrinth.com/resourcepack/true-ending-ender-dragon-music
+
+Consider star Worm Equestrian (Upgrading Horses) (Flying also want to make sure works with carts)
