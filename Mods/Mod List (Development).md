@@ -35,9 +35,10 @@
 				- Gazebos
 				- Chiseled Bookshelf Visualizer
 				- BackTools
+				- Antique Atlas 4 
 - Toad Lib
 	- https://modrinth.com/mod/toadlib
-	- **ToadLib-1.20.1-1.1.4**
+	- **ToadLib-1.20.1-1.1.5**
 		- Required By:
 				- Enlightened Blocks Entity
 - Creative Core
@@ -99,7 +100,6 @@
 	- **collective-1.20.1-7.87**
 		- Required By:
 				- Nether Portal Spread
-				- Realistic Bees
 - Balm
 	- https://modrinth.com/mod/balm
 	- **balm-forge-1.20.1-7.3.9**
@@ -120,6 +120,7 @@
 	- **architectury-9.2.14-forge**
 		- Required By
 				- Blooming Nature
+				- OctoLib
 - Create
 	- https://www.curseforge.com/minecraft/mc-mods/create
 	- create-1.20.1-0.5.1.j
@@ -207,8 +208,32 @@
 	- yet-another-config-lib-forge-3.2.2+1.20
 		- Required By
 				- Reactive Music
-- 
-
+- Surveyor Map Framework
+	- https://modrinth.com/mod/surveyor
+	- **surveyor-0.6.24+1.20**
+		- Required by:
+				- Antique Atlas 4
+- OctoLib
+	- https://www.curseforge.com/minecraft/mc-mods/octo-lib
+	- OctoLib-QUILT-0.4.2+1.20.1
+		- Required By
+				- Immersive UI
+- Prism
+	- https://modrinth.com/mod/prism-lib
+	- Prism-1.20.1-forge-1.0.5**
+		- Required by
+				- Legendary ToolTips
+- Iceberg
+	- https://modrinth.com/mod/iceberg
+	- **Iceberg-1.20.1-forge-1.1.18
+		- Required by
+				- Legendary Tooltips
+- Puzzles Lib
+	- https://modrinth.com/mod/puzzles-lib
+	- PuzzlesLib-v8.1.17-1.20.1
+		- Required By
+				- Pick up Notifier
+				- Visual Workbench
 
 #### **Performance**
 - Noisium
@@ -327,7 +352,6 @@
 		- **Philips-Ruins1.20.1-4.6**
 
 
-
 #### **Rendering Engines Mods:**
 - Embeddium 
 	- https://www.curseforge.com/minecraft/mc-mods/embeddium
@@ -356,6 +380,9 @@
 - Paxi
 	- https://modrinth.com/mod/paxi
 	- **Paxi-1.20-Forge-4.0**
+- Better Compatibility Checker
+	- https://modrinth.com/mod/better-compatibility-checker
+	- **BetterCompatibilityChecker-neo-4.0.8+mc1.20.1**
 #### **User Interface:**
 - Resourcify
 	- https://www.curseforge.com/minecraft/mc-mods/resourcify
@@ -366,12 +393,27 @@
 - Loot Beams: Relooted
 	- https://modrinth.com/mod/loot-beams
 	- **lootbeams-1.20.1-1.2.2**
+- Immersive UI
+	- https://www.curseforge.com/minecraft/mc-mods/immersive-ui
+	- ImmersiveUI-FORGE-0.2.2
+- Legendary Tooltips
+	- https://modrinth.com/mod/legendary-tooltips
+	- **LegendaryTooltips-1.20.1-forge-1.4.5**
+- Better Advancements
+	- https://modrinth.com/mod/better-advancements
+	- **BetterAdvancements-NeoForge-1.20.1-0.4.2.10**
+- Pick Up Notifier
+	- https://modrinth.com/mod/pick-up-notifier
+	- **PickUpNotifier-v8.0.0-1.20.1-Forge**
 #### **Graphics**
 
 - Lighting 
 	- True Darkness
 		- https://www.curseforge.com/minecraft/mc-mods/true-darkness-forge-updated-fork
 		- darkness-forge-1.20.1-2.0.103-fork
+- Explosive Enhancement: Reforged
+	- https://modrinth.com/mod/explosive-enhancement-forge
+	- **explosiveenhancement-1.0.0.**
 	
 
 #### **Audio**
@@ -436,7 +478,19 @@
 	- Chiseled Bookshelf Visualizer
 		- https://modrinth.com/mod/chiseled-bookshelf-visualizer
 		- Chiseled-Bookshelf-Visualizer-1.20-2.0
-	- 
+	- Antique Atlas 4 
+		- https://modrinth.com/mod/antique-atlas-4
+		- **antique-atlas-2.10.0+1.20**
+	- Connectible Chains
+		- https://www.curseforge.com/minecraft/mc-mods/connectible-chains-forge
+		- Connectible Chains-forge-1.20.1-1.0.0
+	- Visual Workbench
+		- https://modrinth.com/mod/visual-workbench
+		- **VisualWorkbench-v8.0.0-1.20.1-Forge**
+- Enchantments
+	- Vein Mining
+		- https://modrinth.com/mod/vein-mining
+		- **veinmining-forge-1.5.0+1.20.1**
 
 - Character
 	- Realm RPG Fallen Adventurers
@@ -510,12 +564,17 @@
 		- Alex's Mobs
 			- https://modrinth.com/mod/alexs-mobs
 			- **alexsmobs-1.22.9**
-		- Realistic Bees
-			- https://modrinth.com/mod/realistic-bees
-			- **realisticbees-1.20.1-4.0
 		- Snowy Sniffer
 			- https://modrinth.com/mod/snow-sniffer
 			- snowysniffer-1.20.1-1.0.0
+		- Horses
+			- Kaffee's Dual Ride
+				- https://www.curseforge.com/minecraft/mc-mods/kaffees-dual-ride
+				- Kaffee's_Dual_Ride-mc1.20.1-1.1.0
+		- DragNs Livestock Overhaul
+			- https://modrinth.com/mod/dragns-livestock-overhaul
+			- **DragNs_Livestock_Overhaul-1.20.1-1.4**
+			
 	- Villagers
 		- Guard Villagers
 			- https://modrinth.com/mod/guard-villagers

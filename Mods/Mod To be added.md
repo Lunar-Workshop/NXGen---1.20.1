@@ -1,3 +1,5 @@
+https://www.curseforge.com/minecraft/mc-mods/dye-depot
+
 AdPother-1.20.1-8.1.23.0-build.0852
 ForgeEndertech-1.20.1-11.1.5.0-build.0890
 AdChimneys-1.20.1-10.1.15.0-build.0828
@@ -41,3 +43,4 @@ skeletonhorsespawn-1.20.1-4.0
 nebulus_moe_spiders-1.0.2
 
 nyfsspiders-forge-1.20.1-2.1.1
+
