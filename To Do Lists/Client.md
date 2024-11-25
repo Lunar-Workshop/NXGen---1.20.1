@@ -25,3 +25,6 @@ Try True Ending Ender Dragon Music to test for any conflicts with current sound 
 https://modrinth.com/resourcepack/true-ending-ender-dragon-music
 
 Consider star Worm Equestrian (Upgrading Horses) (Flying also want to make sure works with carts)
+
+Find Ether Ores update
+Move sound pack to Paxi

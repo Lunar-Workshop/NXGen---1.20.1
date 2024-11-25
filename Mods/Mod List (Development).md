@@ -4,6 +4,7 @@
 	- kotlinforforge-4.11.0-all
 		- Required By:
 				- Resourcify
+				- Valkyrien Skies
 - Lithostitched
 	- https://modrinth.com/mod/lithostitched
 	- **lithostitched-forge-1.20.1-1.3.4**
@@ -20,22 +21,24 @@
 		- Required By:
 				- Sinytra Connector
 				- Ambient Sounds
-				- Maslik's Puzzle Dungeon
-				- Rogues and Warriors
-				- Spell Engine
-				- Spell Power Attributes
-				- Archers
-				- Ranged Weapon API
-				- Paladins and Priests
-				- Shield API
-				- Runes
-				- Wizards
-				- Jewelry
-				- Structured Pool API
-				- Gazebos
+				- RPG
+					- Maslik's Puzzle Dungeon
+					- Rogues and Warriors
+					- Spell Engine
+					- Spell Power Attributes
+					- Archers
+					- Ranged Weapon API
+					- Paladins and Priests
+					- Shield API
+					- Runes
+					- Wizards
+					- Jewelry
+					- Structured Pool API
+					- Gazebos
 				- Chiseled Bookshelf Visualizer
 				- BackTools
 				- Antique Atlas 4 
+				- Neruina
 - Toad Lib
 	- https://modrinth.com/mod/toadlib
 	- **ToadLib-1.20.1-1.1.5**
@@ -50,6 +53,7 @@
 	- https://modrinth.com/mod/cloth-config
 	- **cloth-config-11.1.136-forge**
 		- Required By:
+				- Valkyrien Skies
 				- Simple Voice Chat
 				- Sound Physics Remastered
 				- Snow! Real Magic!
@@ -90,16 +94,19 @@
 	- **Kiwi-1.20.1-Forge-11.8.20**
 		- Required By:
 				- Snow Real Magic
-- Midnight Lib
+- Moonlight Lib
 	- https://modrinth.com/mod/moonlight
 	- **moonlight-1.20-2.13.25-forge**
 		- Required By:
 				- Immersive Weathering
+				- Amendments
 - Collective
 	- https://modrinth.com/mod/collective
 	- **collective-1.20.1-7.87**
 		- Required By:
 				- Nether Portal Spread
+				- Skeleton Horse Spawn
+				- Zombie Horse Spawn
 - Balm
 	- https://modrinth.com/mod/balm
 	- **balm-forge-1.20.1-7.3.9**
@@ -139,6 +146,8 @@
 				- Yung's Cave Biome
 				- Realm RPG - Pots and Mimics
 				- Burnt
+				- Creeper Overhaul
+				- Enderman Overhaul
 - TerraBlender
 	- https://modrinth.com/mod/terrablender
 	- **TerraBlender-forge-1.20.1-3.0.1.7
@@ -155,6 +164,7 @@
 		- Required By:
 				- Better Combat
 				- Spell Engine
+				- Better Falling
 - AzureLib Armor
 	- https://modrinth.com/mod/azurelib-armor
 	- azurelibarmor-fabric-1.20.1-2.0.12
@@ -213,7 +223,7 @@
 	- **surveyor-0.6.24+1.20**
 		- Required by:
 				- Antique Atlas 4
-- OctoLib
+- Octo Lib
 	- https://www.curseforge.com/minecraft/mc-mods/octo-lib
 	- OctoLib-QUILT-0.4.2+1.20.1
 		- Required By
@@ -225,17 +235,70 @@
 				- Legendary ToolTips
 - Iceberg
 	- https://modrinth.com/mod/iceberg
-	- **Iceberg-1.20.1-forge-1.1.18
+	- Iceberg-1.20.1-forge-1.1.21
 		- Required by
 				- Legendary Tooltips
+				- Advancement Plaques
 - Puzzles Lib
 	- https://modrinth.com/mod/puzzles-lib
 	- PuzzlesLib-v8.1.17-1.20.1
 		- Required By
-				- Pick up Notifier
-				- Visual Workbench
+				- Fuzs
+					- Pick up Notifier
+					- Visual Workbench
+					- Effect Descriptions
+					- Easy Shulker Boxes
+					- Diagonal Walls
+					- Diagonal Windows
+					- Better Tridents
+					- Block Runner
+					- Stylish Effects
+					- Stoneworks
+					- Diagonal Fences
+					- Easy Anvils
+					- Easy Magic
+- Bookshelf
+	- https://modrinth.com/mod/bookshelf-lib
+	- Bookshelf-Forge-1.20.1-20.2.13
+		- Required By
+				- Tips
+- Coro Util
+	- https://modrinth.com/mod/coroutil
+	- coroutil-forge-1.20.1-1.3.7
+		- Required By
+			- What Are They Up To (Watut)
+			- Enchantment Description
+- Resourceful Config
+	- https://modrinth.com/mod/resourceful-config
+	- resourcefulconfig-forge-1.20.1-2.1.2
+		- Required By
+				- Creeper Overhaul
+				- Enderman overhaul
+- Resourceful Lib
+	- https://modrinth.com/mod/resourceful-lib
+	- resourcefullib-forge-1.20.1-2.1.29
+		- Required By
+				- Creeper Overhaul
+				- Enderman Overhaul
+- Formations
+	- https://modrinth.com/mod/formations
+	- formations-1.0.2-forge-mc1.20
+		- Required By 
+				- Formations Nether
+- Curios API
+	- https://modrinth.com/mod/curios
+	- curios-forge-5.11.0+1.20.1
+		- Required By
+				- Curious Lanterns
+				- Radiant Gear
+- Radiant Gear
+	- https://modrinth.com/mod/radiant-gear
+	- radiantgear-forge-2.1.5+1.20.1
+		- Required by
+				- Curious Lanterns
 
 #### **Performance**
+
 - Noisium
 	- https://www.curseforge.com/minecraft/mc-mods/noisium
 	- noisium-forge-2.3.0+mc1.20-1.20.1
@@ -260,8 +323,13 @@
 - Remove Reloading Screen
 	- https://modrinth.com/mod/rrls
 	- rrls-4.0.6.1+mc1.20.1-forge
+- Neruina
+	- https://modrinth.com/mod/neruina
+	- Neruina-2.1.2-forge+1.20.1
 
-#### **World Generation**
+
+#### **World Generation
+
 - Environment:
 	- Lithosphere 
 		- https://www.curseforge.com/minecraft/mc-mods/lithosphere
@@ -285,74 +353,87 @@
 		- True Ending
 			- https://modrinth.com/datapack/true-ending
 			- tru.e-ending-v1.1.0c
+	- The Nether
+		- Nether Ores Plus+
+			- https://www.curseforge.com/minecraft/mc-mods/nether-ores-plus
+			- Nether Ores Plus+ 1.0.0 - 1.20.1
+		- Amplified Nether
+			- https://modrinth.com/datapack/amplified-nether
+			- Amplified_Nether_1.20.x_v1.2.5
 - Structures:
-	- Sparse Structures Reforged
-		- https://modrinth.com/mod/sparsestructuresreforged
-		- **sparsestructuresreforged-1.20.1-0.0.1**
-	- Towns and Towers
-		- https://legacy.curseforge.com/minecraft/mc-mods/towns-and-towers
-		- Towns-and-Towers-1.11.1-Fabric+Forge
-	- Yung's Mods
-		- Yung's Better Mineshaft
-			- https://modrinth.com/mod/yungs-better-mineshafts
-			- YungsBetterMineshafts-1.20-Forge-4.0.4
-		- Yung's Better Strongholds
-			- https://modrinth.com/mod/yungs-better-strongholds
-			- YungsBetterStrongholds-1.20-Forge-4.0.3
-		- Yung's Better Nether Fortresses
-			- https://modrinth.com/mod/yungs-better-nether-fortresses
-			- YungsBetterNetherFortresses-1.20-Forge-2.0.6
-		- Yung's Better Ocean Monuments
-			- https://modrinth.com/mod/yungs-better-ocean-monuments
-			- YungsBetterOceanMonuments-1.20-Forge-3.0.4
-		- Yung's Better Witch Huts
-			- https://modrinth.com/mod/yungs-better-witch-huts
-			- YungsBetterWitchHuts-1.20-Forge-3.0.3
-		- Yung's Bridges
-			- https://modrinth.com/mod/yungs-bridges
-			- YungsBridges-1.20-Forge-4.0.3
-		- Yung's Better Dungeons
-			- https://modrinth.com/mod/yungs-better-dungeons
-			- **YungsBetterDungeons-1.20-Forge-4.0.4**
-		- Yung's Cave Biomes
-			- https://modrinth.com/mod/yungs-cave-biomes
-			- **YungsCaveBiomes-1.20.1-Forge-2.0.1**
-		- Yung's Better Jungle Temple
-			- https://modrinth.com/mod/yungs-better-jungle-temples
-			- YungsBetterJungleTemples-1.20-Forge-2.0.5
-		- Yung's Better Desert Temples
-			- https://modrinth.com/mod/yungs-better-desert-temples
-			- YungsBetterDesertTemples-1.20-Forge-3.0.3
-		- Yung's Extras
-			- https://modrinth.com/mod/yungs-extras
-			- YungsExtras-1.20-Forge-4.0.3
-	- Hopo Better Underwater Ruins
-		- https://modrinth.com/datapack/hopo-better-underwater-ruins 
-		- HopoBetterUnderwaterRuins-[1.20.2-1.20.4]-1.1.5
-	- Tidal Towns
-		- https://modrinth.com/datapack/tidal-towns
-		- tidal-towns-1.3.3_neo
-	- Better End Cities Vanilla
-		- https://modrinth.com/mod/better-end-cities-base
-		- betterendcities-1.0.0-1.20.1
-	- Masik's Puzzle Dungeon
-		- https://modrinth.com/mod/puzzle-dungeon
-		- puzzledungeon-forge-1.20.1-1.2.0
-	- Dungeon and Taverns Ancient City Overhaul
-		- https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul
-		- **dungeons-and-taverns-ancient-city-overhaul-1**
-	- Bigger Better End Cities
-		- https://modrinth.com/mod/bigger-better-end-cities
-		- biggerendcities-1.20.1-1.0.0
-	- Revamped Shipwrecks 
-		- https://modrinth.com/datapack/revamped-shipwrecks
-		- **Revamped Shipwrecks 1.0.1**
-	- Philip's Ruins
-		- https://modrinth.com/mod/philips-ruins
-		- **Philips-Ruins1.20.1-4.6**
+	- Overworld
+		- Sparse Structures Reforged
+			- https://modrinth.com/mod/sparsestructuresreforged
+			- **sparsestructuresreforged-1.20.1-0.0.1**
+		- Towns and Towers
+			- https://legacy.curseforge.com/minecraft/mc-mods/towns-and-towers
+			- Towns-and-Towers-1.11.1-Fabric+Forge
+		- Yung's Mods
+			- Yung's Better Mineshaft
+				- https://modrinth.com/mod/yungs-better-mineshafts
+				- YungsBetterMineshafts-1.20-Forge-4.0.4
+			- Yung's Better Strongholds
+				- https://modrinth.com/mod/yungs-better-strongholds
+				- YungsBetterStrongholds-1.20-Forge-4.0.3
+			- Yung's Better Nether Fortresses
+				- https://modrinth.com/mod/yungs-better-nether-fortresses
+				- YungsBetterNetherFortresses-1.20-Forge-2.0.6
+			- Yung's Better Ocean Monuments
+				- https://modrinth.com/mod/yungs-better-ocean-monuments
+				- YungsBetterOceanMonuments-1.20-Forge-3.0.4
+			- Yung's Better Witch Huts
+				- https://modrinth.com/mod/yungs-better-witch-huts
+				- YungsBetterWitchHuts-1.20-Forge-3.0.3
+			- Yung's Bridges
+				- https://modrinth.com/mod/yungs-bridges
+				- YungsBridges-1.20-Forge-4.0.3
+			- Yung's Better Dungeons
+				- https://modrinth.com/mod/yungs-better-dungeons
+				- **YungsBetterDungeons-1.20-Forge-4.0.4**
+			- Yung's Cave Biomes
+				- https://modrinth.com/mod/yungs-cave-biomes
+				- **YungsCaveBiomes-1.20.1-Forge-2.0.1**
+			- Yung's Better Jungle Temple
+				- https://modrinth.com/mod/yungs-better-jungle-temples
+				- YungsBetterJungleTemples-1.20-Forge-2.0.5
+			- Yung's Better Desert Temples
+				- https://modrinth.com/mod/yungs-better-desert-temples
+				- YungsBetterDesertTemples-1.20-Forge-3.0.3
+			- Yung's Extras
+				- https://modrinth.com/mod/yungs-extras
+					- YungsExtras-1.20-Forge-4.0.3
+		- Hopo Better Underwater Ruins
+			- https://modrinth.com/datapack/hopo-better-underwater-ruins 
+			- HopoBetterUnderwaterRuins-[1.20.2-1.20.4]-1.1.5
+		- Tidal Towns
+			- https://modrinth.com/datapack/tidal-towns
+			- tidal-towns-1.3.3_neo
+		- Masik's Puzzle Dungeon
+			- https://modrinth.com/mod/puzzle-dungeon
+			- puzzledungeon-forge-1.20.1-1.2.0
+		- Dungeon and Taverns Ancient City Overhaul
+			- https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul
+			- **dungeons-and-taverns-ancient-city-overhaul-1**
+		- Revamped Shipwrecks 
+			- https://modrinth.com/datapack/revamped-shipwrecks
+			- **Revamped Shipwrecks 1.0.1**
+		- Philip's Ruins
+			- https://modrinth.com/mod/philips-ruins
+			- **Philips-Ruins1.20.1-4.6**
+	- The Nether
+		- https://modrinth.com/mod/formations-nether
+		- formationsnether-1.0.5
+	- The End
+		-  Better End Cities Vanilla
+			- https://modrinth.com/mod/better-end-cities-base
+			- betterendcities-1.0.0-1.20.1 
+		- Bigger Better End Cities
+			- https://modrinth.com/mod/bigger-better-end-cities
+			- biggerendcities-1.20.1-1.0.0
 
 
-#### **Rendering Engines Mods:**
+#### **Rendering Engines Mods:
+**
 - Embeddium 
 	- https://www.curseforge.com/minecraft/mc-mods/embeddium
 	- embeddium-0.3.31+mc1.20.1
@@ -373,47 +454,97 @@
 	- citresewn-1.20.1-5
 
 
-#### **Launcher** **Compat**
+#### **Launcher** **Compat
+**
 -  Sinytra Connector
 	- https://modrinth.com/mod/connector
 	- **Connector-1.0.0-beta.46+1.20.1**
+		- Required by
+			  - Forgefied MT Inventory Weight 
 - Paxi
 	- https://modrinth.com/mod/paxi
 	- **Paxi-1.20-Forge-4.0**
 - Better Compatibility Checker
 	- https://modrinth.com/mod/better-compatibility-checker
 	- **BetterCompatibilityChecker-neo-4.0.8+mc1.20.1**
-#### **User Interface:**
-- Resourcify
-	- https://www.curseforge.com/minecraft/mc-mods/resourcify
-	- Resourcify (1.20-1.20.1-forge)-1.5.1
-- EMI
-	- https://modrinth.com/mod/emi
-	- **emi-1.1.18+1.20.1+forge**
-- Loot Beams: Relooted
-	- https://modrinth.com/mod/loot-beams
-	- **lootbeams-1.20.1-1.2.2**
-- Immersive UI
-	- https://www.curseforge.com/minecraft/mc-mods/immersive-ui
-	- ImmersiveUI-FORGE-0.2.2
-- Legendary Tooltips
-	- https://modrinth.com/mod/legendary-tooltips
-	- **LegendaryTooltips-1.20.1-forge-1.4.5**
-- Better Advancements
-	- https://modrinth.com/mod/better-advancements
-	- **BetterAdvancements-NeoForge-1.20.1-0.4.2.10**
-- Pick Up Notifier
-	- https://modrinth.com/mod/pick-up-notifier
-	- **PickUpNotifier-v8.0.0-1.20.1-Forge**
+#### **User Interface:
+
+- Resource Packs
+	- Resourcify
+		- https://www.curseforge.com/minecraft/mc-mods/resourcify
+		- Resourcify (1.20-1.20.1-forge)-1.5.1
+- Inventory
+	- EMI
+		- https://modrinth.com/mod/emi
+		- **emi-1.1.18+1.20.1+forge**
+	- Inventory Tweaks: ReFoxed
+		- https://modrinth.com/mod/inventory-weight
+		- invtweaks-1.20.1-1.1.0
+	- Immersive UI
+		- https://www.curseforge.com/minecraft/mc-mods/immersive-ui
+		- ImmersiveUI-FORGE-0.2.2
+	- Legendary Tooltips
+		- https://modrinth.com/mod/legendary-tooltips
+		- **LegendaryTooltips-1.20.1-forge-1.4.5**
+	- Mouse Tweaks
+		- https://modrinth.com/mod/mouse-tweaks
+		- MouseTweaks-forge-mc1.20.1-2.25.1
+	- Enchantment Description
+		- https://modrinth.com/mod/enchantment-descriptions
+		- EnchantmentDescriptions-Forge-1.20.1-17.1.19
+	- Effect Descriptions
+		- https://modrinth.com/mod/effect-descriptions
+		- EffectDescriptions-v8.0.2-1.20.1-Forge
+	- Stylish Effects
+		- https://modrinth.com/mod/stylish-effects
+		- StylishEffects-v8.0.2-1.20.1-Forge
+- Crafting Blocks
+	- Visual Workbench
+		- https://modrinth.com/mod/visual-workbench
+		- **VisualWorkbench-v8.0.0-1.20.1-Forge**
+	- Easy Anvils
+		- https://modrinth.com/mod/easy-anvils
+		- EasyAnvils-v8.0.2-1.20.1-Forge
+	- Easy Shulker Boxes
+		- https://modrinth.com/mod/easy-shulker-boxes
+		- EasyShulkerBoxes-v8.0.2-1.20.1-Forge
+	- Easy Magic
+		- https://modrinth.com/mod/easy-magic
+		- EasyMagic-v8.0.1-1.20.1-Forge
+- Item Drops
+	- Loot Beams: Relooted
+		- https://modrinth.com/mod/loot-beams
+		- **lootbeams-1.20.1-1.2.2**
+	-  Pick Up Notifier
+		- https://modrinth.com/mod/pick-up-notifier
+		- **PickUpNotifier-v8.0.0-1.20.1-Forge**
+- Achievements
+	- Better Advancements
+		- https://modrinth.com/mod/better-advancements
+		- **BetterAdvancements-NeoForge-1.20.1-0.4.2.10**
+	- Advancement Plaques
+		- https://modrinth.com/mod/advancement-plaques
+		- AdvancementPlaques-1.20.1-forge-1.4.9
+- Menu / Loading Screen
+	- Tips
+		- https://modrinth.com/mod/tips/version/tEp1qnxU
+		- Tips-Forge-1.20.1-12.0.4
+- Character
+	- What Are They Up To (WATUT) 
+		- https://modrinth.com/mod/what-are-they-up-to
+		- watut-forge-1.20.1-1.1.3
+
+
 #### **Graphics**
 
 - Lighting 
 	- True Darkness
 		- https://www.curseforge.com/minecraft/mc-mods/true-darkness-forge-updated-fork
 		- darkness-forge-1.20.1-2.0.103-fork
-- Explosive Enhancement: Reforged
-	- https://modrinth.com/mod/explosive-enhancement-forge
-	- **explosiveenhancement-1.0.0.**
+- Explosions
+	- Explosive Enhancement: Reforged
+		- https://modrinth.com/mod/explosive-enhancement-forge
+		- **explosiveenhancement-1.0.0.**
 	
 
 #### **Audio**
@@ -441,20 +572,34 @@
 	- reactivemusic-0.5.1+1.20.1
 
 #### **Gameplay**
+
 - Bug Fixes
 	- Nether Portal Fix
 		- https://modrinth.com/mod/netherportalfix
 		- **netherportalfix-forge-1.20-13.0.0**
-- Create
-	- Create Enchantment Industry
-		- https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry
-		- create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d
-	- Create Bells & Whistles
-		- https://modrinth.com/mod/bellsandwhistles
-		- **bellsandwhistles-0.4.3-1.20.x**
-	- Create Design 'n' Decor
-		- https://modrinth.com/mod/create-design-n-decor
-		- **design_decor-0.4.0b-1.20.1**
+- Building
+	- Create
+		- Create Enchantment Industry
+			- https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry
+			- create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d
+		- Create Bells & Whistles
+			- https://modrinth.com/mod/bellsandwhistles
+			- **bellsandwhistles-0.4.3-1.20.x**
+		- Create Design 'n' Decor
+			- https://modrinth.com/mod/create-design-n-decor
+			- **design_decor-0.4.0b-1.20.1**
+	- Diagonal Walls
+		- https://modrinth.com/mod/diagonal-walls
+		- DiagonalWalls-v8.0.3-1.20.1-Forge
+	- Diagonal Windows
+		- https://modrinth.com/mod/diagonal-windows
+		- DiagonalWindows-v8.1.4-1.20.1-Forge
+	- Diagonal Fences
+		- https://modrinth.com/mod/diagonal-fences
+		- DiagonalFences-v8.1.4-1.20.1-Forge
+	- Stoneworks
+		- https://modrinth.com/mod/stoneworks
+		- Stoneworks-v8.0.0-1.20.1-Forge
 - Loot
 	- Realm RPG - Pots and Mimics
 		- https://www.curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg
@@ -484,9 +629,10 @@
 	- Connectible Chains
 		- https://www.curseforge.com/minecraft/mc-mods/connectible-chains-forge
 		- Connectible Chains-forge-1.20.1-1.0.0
-	- Visual Workbench
-		- https://modrinth.com/mod/visual-workbench
-		- **VisualWorkbench-v8.0.0-1.20.1-Forge**
+	- Amendments
+		- https://modrinth.com/mod/amendments
+		- amendments-1.20-1.2.12
+	
 - Enchantments
 	- Vein Mining
 		- https://modrinth.com/mod/vein-mining
@@ -543,6 +689,12 @@
 	- Create Numismatics
 		- https://modrinth.com/mod/numismatics
 		- **CreateNumismatics-1.0.7+forge-mc1.20.1**
+	- Forgefied MT Inventory Weight
+		- https://modrinth.com/mod/inventory-weight
+		- inventory-weight-Forgefied_1.3.4_1.20.1
+	- Better Falling
+		- https://www.curseforge.com/minecraft/mc-mods/better-falling
+		- Better Falling-forge-1.2.0-mc1.20.1
 - Transport
 	- Valkyrien Skies
 		- https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies
@@ -556,6 +708,17 @@
 	- Create Diesel Generators
 		- https://modrinth.com/mod/create-diesel-generators
 		- **createdieselgenerators-1.20.1-1.2i**
+	- Astikor Carts TFC
+		- https://www.curseforge.com/minecraft/mc-mods/astikor-carts-tfc
+		- astikorcarts-1.20.1-1.1.8
+- Tools
+	- Better Tridents
+		- https://modrinth.com/mod/better-tridents
+		- BetterTridents-v8.0.1-1.20.1-Forge
+	- Curious Lanterns
+		- https://modrinth.com/mod/curious-lanterns
+		- curiouslanterns-1.20.1-1.3.3
+	
 - Mobs
 	- Animals
 		- Aquaculture 2
@@ -571,9 +734,34 @@
 			- Kaffee's Dual Ride
 				- https://www.curseforge.com/minecraft/mc-mods/kaffees-dual-ride
 				- Kaffee's_Dual_Ride-mc1.20.1-1.1.0
+			- Callable Horse
+				- https://www.curseforge.com/minecraft/mc-mods/callable-horses
+				- callablehorses-1.20.1-1.3.0.1
 		- DragNs Livestock Overhaul
 			- https://modrinth.com/mod/dragns-livestock-overhaul
 			- **DragNs_Livestock_Overhaul-1.20.1-1.4**
+	- Hostile Mobs
+		- Zombie Horse Spawn
+			- https://modrinth.com/mod/zombie-horse-spawn
+			- zombiehorsespawn-1.20.1-5.1
+		- Skeleton Horse Spawn
+			- https://modrinth.com/mod/skeleton-horse-spawn
+			- skeletonhorsespawn-1.20.1-4.0
+		- Nyfs Spiders
+			- https://modrinth.com/mod/nyfs-spiders
+			- nyfsspiders-forge-1.20.1-2.1.1
+		- Nebulus Moe Spiders
+			- https://www.curseforge.com/minecraft/mc-mods/nebulus-new-spiders
+			- nebulus_moe_spiders-1.0.2
+		- Creeper Overhaul
+			- https://modrinth.com/mod/creeper-overhaul
+			- creeperoverhaul-3.0.2-forge
+		- Enderman Overhaul
+			- https://modrinth.com/mod/enderman-overhaul
+			- endermanoverhaul-forge-1.20.1-1.0.4
+		- Nether Skeleton
+			- https://modrinth.com/mod/netherskeletons
+			- netherskeletonsneoforge1.20.1
 			
 	- Villagers
 		- Guard Villagers
@@ -581,6 +769,7 @@
 			- **guardvillagers-1.20.1-1.6.7**
 
 ### **Environment**
+
 - Weather 
 	- Serene Seasons
 		- https://modrinth.com/mod/serene-seasons
@@ -643,6 +832,12 @@
 	- Nether Portal Spread
 		- https://modrinth.com/mod/nether-portal-spread
 		- **netherportalspread-1.20.1-8.3**
+	- Simply Desire Paths
+		- https://www.curseforge.com/minecraft/mc-mods/simply-desire-paths
+		- SimplyDesirePaths-1.0.0-forge-1.20.1
+	- Block Runner
+		- https://modrinth.com/mod/block-runner
+		- BlockRunner-v8.0.4-1.20.1-Forge
 - Philip's Biome Features
 	- https://modrinth.com/mod/philips-biome-features
 	- Philips-Biome-Features1.20.1-1.6.1
@@ -654,4 +849,14 @@
 	- https://modrinth.com/mod/world-preview
 	- **world_preview-forge-1.20.1-1.3.1**
 
-EMI
+### Player Utilities
+
+- No chat Reports
+	- https://modrinth.com/mod/no-chat-reports
+	- NoChatReports-FORGE-1.20.1-v2.2.2
+- Delete Worlds to Trash
+	- https://modrinth.com/mod/delete-worlds-to-trash
+	- DeleteWorldsToTrash-v8.0.0-1.20.1-Forge
+- Better F1 Reborn
+	- https://modrinth.com/mod/better-f1-reborn
+	- BetterF1-1.0
