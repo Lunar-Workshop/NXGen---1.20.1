@@ -148,6 +148,7 @@
 				- Burnt
 				- Creeper Overhaul
 				- Enderman Overhaul
+				- Wither Spawn Animation
 - TerraBlender
 	- https://modrinth.com/mod/terrablender
 	- **TerraBlender-forge-1.20.1-3.0.1.7
@@ -296,6 +297,12 @@
 	- radiantgear-forge-2.1.5+1.20.1
 		- Required by
 				- Curious Lanterns
+- Forge End Tech
+	- https://www.curseforge.com/minecraft/mc-mods/forgeendertech
+	- ForgeEndertech-1.20.1-11.1.5.0-build.0890
+		- Required By
+				- Advanced Chimneys
+				- Pollution of the Realms
 
 #### **Performance**
 
@@ -632,6 +639,9 @@
 	- Amendments
 		- https://modrinth.com/mod/amendments
 		- amendments-1.20-1.2.12
+	- Advanced Chimneys
+		- https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
+		- AdChimneys-1.20.1-10.1.15.0-build.0828
 	
 - Enchantments
 	- Vein Mining
@@ -762,6 +772,9 @@
 		- Nether Skeleton
 			- https://modrinth.com/mod/netherskeletons
 			- netherskeletonsneoforge1.20.1
+		- Wither Spawn Animation
+			- https://www.curseforge.com/minecraft/mc-mods/wither-spawn-animation
+			- wither_spawn_animation-1.2-forge-1.20.1
 			
 	- Villagers
 		- Guard Villagers
@@ -848,6 +861,9 @@
 - World Preview
 	- https://modrinth.com/mod/world-preview
 	- **world_preview-forge-1.20.1-1.3.1**
+- Pollution of the Realms
+	- https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
+	- AdPother-1.20.1-8.1.23.0-build.0852
 
 ### Player Utilities
 
