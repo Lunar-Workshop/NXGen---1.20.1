@@ -1,5 +1,9 @@
-##### 24.11.**24** p.m.
-- 
+##### **30.11.24 p.m.**
+Plants need light
+Hardcore Revival
+Simple Hardcore Respawn
+Nature's Compass
+
 ##### **24**.11.24 a.m.
 
 - Easy Magic
