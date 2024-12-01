@@ -112,6 +112,7 @@
 	- **balm-forge-1.20.1-7.3.9**
 		- Required by:
 				- Nether Portal Fix
+				- Hardcore Revival
 - Citadel
 	- https://modrinth.com/mod/citadel
 	- **citadel-2.6.0-1.20.1**
@@ -595,6 +596,9 @@
 		- Create Design 'n' Decor
 			- https://modrinth.com/mod/create-design-n-decor
 			- **design_decor-0.4.0b-1.20.1**
+		- Create: Metal Work
+			- https://modrinth.com/mod/create-metalwork
+			- **create-metalwork-1.20.1-1.0.9-forge**
 	- Diagonal Walls
 		- https://modrinth.com/mod/diagonal-walls
 		- DiagonalWalls-v8.0.3-1.20.1-Forge
@@ -728,6 +732,9 @@
 	- Curious Lanterns
 		- https://modrinth.com/mod/curious-lanterns
 		- curiouslanterns-1.20.1-1.3.3
+	- Nature's Compass
+		- https://modrinth.com/mod/natures-compass
+		- **NaturesCompass-1.20.1-1.11.2-forge**
 	
 - Mobs
 	- Animals
@@ -783,6 +790,13 @@
 
 ### **Environment**
 
+- Difficulty
+	- Hardcore Revival
+		- https://modrinth.com/mod/hardcore-revival
+		- **hardcorerevival-forge-1.20.1-12.0.6
+	- Simple Hardcore Respawn
+		- https://www.curseforge.com/minecraft/mc-mods/simple-hardcore-respawn
+		- simple_hardcore_respawn-1.0.2-forge-1.20.1
 - Weather 
 	- Serene Seasons
 		- https://modrinth.com/mod/serene-seasons
@@ -841,6 +855,9 @@
 	- Tumbleweed
 		- https://www.curseforge.com/minecraft/mc-mods/tumbleweed
 		- Tumbleweed-forge-1.20.1-0.5.5
+	- Plants Need Light
+		- https://modrinth.com/mod/plants-need-light!
+		- **PlantsNeedSunlight-forge-1.20.1-0**
 - Terrain
 	- Nether Portal Spread
 		- https://modrinth.com/mod/nether-portal-spread
