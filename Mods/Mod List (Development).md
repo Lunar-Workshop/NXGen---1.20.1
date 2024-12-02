@@ -849,9 +849,6 @@
 		- Pam's Harvestcraft 2 Crops
 			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
 			- pamhc2crops-1.20-1.0.3
-		- Pam's Harvestcraft 2 Food Extended
-			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
-			- pamhc2foodextended-1.20.4-1.0.1
 	- Tumbleweed
 		- https://www.curseforge.com/minecraft/mc-mods/tumbleweed
 		- Tumbleweed-forge-1.20.1-0.5.5
