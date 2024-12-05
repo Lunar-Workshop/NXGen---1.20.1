@@ -60,6 +60,7 @@
 				- Better Combat
 				- Spell Engine
 				- BackTools
+				- Better F3
 - Lexi Config
 	- https://modrinth.com/mod/lexiconfig
 	- **Lexiconfig-forge-1.3.11**
@@ -140,6 +141,7 @@
 				- Create Design 'n' Decor
 				- Create Diesel Generators
 				- Create Numismatics
+				- Exposure
 - Geckolib
 	- https://modrinth.com/mod/geckolib
 	- geckolib-neoforge-1.20.1-4.4.9
@@ -258,7 +260,6 @@
 					- Stoneworks
 					- Diagonal Fences
 					- Easy Anvils
-					- Easy Magic
 - Bookshelf
 	- https://modrinth.com/mod/bookshelf-lib
 	- Bookshelf-Forge-1.20.1-20.2.13
@@ -293,6 +294,8 @@
 		- Required By
 				- Curious Lanterns
 				- Radiant Gear
+				- Charm of Undying
+				- Elytra Slot
 - Radiant Gear
 	- https://modrinth.com/mod/radiant-gear
 	- radiantgear-forge-2.1.5+1.20.1
@@ -304,6 +307,11 @@
 		- Required By
 				- Advanced Chimneys
 				- Pollution of the Realms
+- Caelus API
+	- https://modrinth.com/mod/caelus
+	- caelus-forge-3.2.0+1.20.1
+		- Required By
+				- Elytra Slot
 
 #### **Performance**
 
@@ -361,6 +369,9 @@
 		- True Ending
 			- https://modrinth.com/datapack/true-ending
 			- tru.e-ending-v1.1.0c
+		- End Ores
+			- https://www.curseforge.com/minecraft/mc-mods/end-ores
+			- endores-1.20.1-r1
 	- The Nether
 		- Nether Ores Plus+
 			- https://www.curseforge.com/minecraft/mc-mods/nether-ores-plus
@@ -481,6 +492,16 @@
 	- Resourcify
 		- https://www.curseforge.com/minecraft/mc-mods/resourcify
 		- Resourcify (1.20-1.20.1-forge)-1.5.1
+- HUD
+	- AppleSkin
+		- https://modrinth.com/mod/appleskin
+		- appleskin-forge-mc1.20.1-2.5.1
+	- JeremySeq's Damage Indicator
+		- https://modrinth.com/mod/jeremyseqs-damage-indicator
+		- damageindicator-2.0.0-1.20.1
+	- Better F3
+		- https://modrinth.com/mod/betterf3
+		- BetterF3-7.0.2-Forge-1.20.1
 - Inventory
 	- EMI
 		- https://modrinth.com/mod/emi
@@ -506,6 +527,16 @@
 	- Stylish Effects
 		- https://modrinth.com/mod/stylish-effects
 		- StylishEffects-v8.0.2-1.20.1-Forge
+	- Dynamic Trim
+		- https://modrinth.com/mod/dynamic-trim
+		- dynamictrim-1.2.1-forge+1.20.1
+	- Slot Upgrades
+		- Charm of Undying
+			- https://modrinth.com/mod/charm-of-undying
+			- charmofundying-forge-6.5.0+1.20.1
+		- Elytra Slot
+			- https://modrinth.com/mod/elytra-slot
+			- elytraslot-forge-6.4.0+1.20.1
 - Crafting Blocks
 	- Visual Workbench
 		- https://modrinth.com/mod/visual-workbench
@@ -516,9 +547,6 @@
 	- Easy Shulker Boxes
 		- https://modrinth.com/mod/easy-shulker-boxes
 		- EasyShulkerBoxes-v8.0.2-1.20.1-Forge
-	- Easy Magic
-		- https://modrinth.com/mod/easy-magic
-		- EasyMagic-v8.0.1-1.20.1-Forge
 - Item Drops
 	- Loot Beams: Relooted
 		- https://modrinth.com/mod/loot-beams
@@ -537,6 +565,12 @@
 	- Tips
 		- https://modrinth.com/mod/tips/version/tEp1qnxU
 		- Tips-Forge-1.20.1-12.0.4
+	- World Play Time
+		- https://www.curseforge.com/minecraft/mc-mods/world-play-time
+		- worldplaytime-1.2.2-1.20.x-FORGE
+	- Server Country Flags
+		- https://modrinth.com/mod/server-country-flags
+		- servercountryflags-1.8.1-1.20.x-FORGE
 - Character
 	- What Are They Up To (WATUT) 
 		- https://modrinth.com/mod/what-are-they-up-to
@@ -578,6 +612,9 @@
 - Reactive Music
 	- https://modrinth.com/mod/reactive-music
 	- reactivemusic-0.5.1+1.20.1
+- Localized Chat
+	- https://modrinth.com/mod/localized-chat
+	- LocalizedChat-forge-1.20.1-5.1.2
 
 #### **Gameplay**
 
@@ -646,13 +683,20 @@
 	- Advanced Chimneys
 		- https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
 		- AdChimneys-1.20.1-10.1.15.0-build.0828
+	-  Soul Fired
+		- https://modrinth.com/mod/soul-fire-d
+		- soulfired-1.20.1-3.2.0.1-final-forge
 	
 - Enchantments
 	- Vein Mining
 		- https://modrinth.com/mod/vein-mining
 		- **veinmining-forge-1.5.0+1.20.1**
+	-
 
 - Character
+	- Diet Mod
+		- https://modrinth.com/mod/diet
+		- **diet-forge-2.1.1+1.20.1**
 	- Realm RPG Fallen Adventurers
 		- https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers
 		- realmrpg_fallen_adventurers_1.0.3_forge_1.20.1
@@ -735,6 +779,9 @@
 	- Nature's Compass
 		- https://modrinth.com/mod/natures-compass
 		- **NaturesCompass-1.20.1-1.11.2-forge**
+	- Chalk
+		- https://modrinth.com/mod/chalk-mod
+		- chalk-1.20.1-1.6.4
 	
 - Mobs
 	- Animals
@@ -814,6 +861,9 @@
 	-  Blooming Nature
 		- https://modrinth.com/mod/lets-do-bloomingnature
 		- **letsdo-bloomingnature-forge-1.0.8**
+	- Realistic Wheat
+		- https://www.curseforge.com/minecraft/mc-mods/realistic-wheat
+		- Realistic Wheat 1.3 - 1.20
 	- Dynamic Trees
 		- Dynamic Trees
 			- https://modrinth.com/mod/dynamictrees
@@ -890,3 +940,12 @@
 - Better F1 Reborn
 	- https://modrinth.com/mod/better-f1-reborn
 	- BetterF1-1.0
+- Exposure
+	- https://modrinth.com/mod/exposure
+	- exposure-1.20.1-1.7.7-forge
+- In Control
+	- https://modrinth.com/mod/in-control
+	- **incontrol-1.20-9.2.11**
+- Configured
+	- https://www.curseforge.com/minecraft/mc-mods/configured
+	- configured-forge-1.20.1-2.2.3

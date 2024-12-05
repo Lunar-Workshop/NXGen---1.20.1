@@ -28,3 +28,8 @@ Consider star Worm Equestrian (Upgrading Horses) (Flying also want to make sure 
 
 Find Ether Ores update
 Move sound pack to Paxi
+
+Find alternatives
+	- suggestion-tweaker-1.20-1.5.2-forge - Didnt work not sure why removed (further testing req
+	- MapTooltip-forge-1.20.1-3.0.1 -  Didnt work not sure why removed (further testing req)
+	- CompletionistsIndex-v8.0.0-1.20.1-Forge - Didnt work not sure why removed (further testing req)
