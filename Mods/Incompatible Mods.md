@@ -11,6 +11,11 @@ Known Issue:
 SWEM EQUASTRIAN - great mod really wanted to add way to much bloat
 
 - ToadLib 1.1.4 ensues wrath of the almighty THOR when you try to use enchantment table
+
+ Easy Magic
+	 Incompatibility with something but don't know what. Ran on J machine, not Cyns now CTD for J as well. 
+		- https://modrinth.com/mod/easy-magic
+		- EasyMagic-v8.0.1-1.20.1-Forge
 ###### **Incompatibilities with Livestock Overhaul**
 	-  Realistic Horse Genetics
 				- https://modrinth.com/mod/realistic-horse-genetics
