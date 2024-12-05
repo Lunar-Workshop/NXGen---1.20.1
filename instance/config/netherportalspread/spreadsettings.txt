@@ -14,12 +14,9 @@ gravel; [soul_soil>1],
 stone_bricks; [nether_bricks>2 + red_nether_bricks>1],
 sea_lantern; [glowstone>1],
 gold_ore; [nether_gold_ore>1],
-
-//Nxgen Bricks
 bricks; [nether_bricks>3 + red_nether_bricks>1],
 brick_stairs; [nether_brick_stairs>3 + red_nether_brick_stairs>1],
 brick_slab; [nether_brick_stairs>3 + red_nether_brick_stairs>1],
-
 chiseled_stone_bricks; [chiseled_polished_blackstone>1],
 stone_bricks; [polished_blackstone_bricks>1],
 stone_brick_stairs; [polished_blackstone_brick_stairs>1],
@@ -31,11 +28,8 @@ mossy_stone_brick_slab; [polished_blackstone_brick_slab>1],
 mossy_stone_brick_wall; [polished_blackstone_brick_wall>1],
 cracked_stone_bricks; [cracked_polished_blackstone_bricks>1],
 stone_button; [polished_blackstone_button>1],
-
 smooth_stone; [polished_blackstone>1],
 smooth_stone_slab; [polished_blackstone_slab>1],
-
-// NXgen additions
 water; [magma_block>1],
 dirt_path; [soul_soil>1],
 mossy_cobblestone; [magma_block>1],
@@ -54,8 +48,6 @@ blue_ice; [magma_block>1],
 kelp; [twisting_vines>1],
 dried_kelp_block; [nether_wart_block>1],
 hay_block; [nether_wart_block>1],
-
-// NXgen Crops
 farmland; [soul_sand>1],
 carrots; [nether_wart>1 + crimson_fungus>10],
 beetroots; [nether_wart>1 + crimson_fungus>10],
@@ -64,21 +56,15 @@ Sugar_cane; [twisting_vines_plant>1],
 wheat; [warped_roots>1],
 pumpkin; [shroomlight>1],
 melon; [warped_wart_block>1],
-
-//NXgen Vegitation
 short_grass; [nether_sprouts>1],
 tall_grass; [crimson_roots>1 + warped_roots>1],
 fern; [nether_sprouts>1],
-
-//NxGen Leaves
 oak_leaves; [nether_wart_block>5 + shroomlight>1],
 spruce_leaves; [nether_wart_block>5 + shroomlight>1],
 birch_leaves; [warped_wart_block>5 + shroomlight>1],
 jungle_leaves; [warped_wart_block>5 + shroomlight>1],
 acacia_leaves; [warped_wart_block>5 + shroomlight>1],
 dark_oak_leaves; [nether_wart_block>5 + shroomlight>1],
-
-//Nxgen Logs
 oak_log; [crimson_stem>1],
 oak_wood; [stripped_oak_wood>1],
 stripped_oak_log; [stripped_crimson_log>1],
@@ -92,7 +78,6 @@ oak_button; [crimson_button>1],
 oak_trapdoor; [crimson_trapdoor>1],
 oak_door; [crimson_door>1],
 oak_sapling; [crimson_fungus>1],
-
 spruce_log; [crimson_stem>1],
 spruce_wood; [crimson_hyphae>1],
 stripped_spruce_log; [stripped_crimson_stem>1],
@@ -106,7 +91,6 @@ spruce_button; [crimson_button>1],
 spruce_trapdoor; [crimson_trapdoor>1],
 spruce_door; [crimson_door>1],
 spruce_sapling; [crimson_fungus>1],
-
 birch_log; [warped_stem>1],
 birch_wood; [warped_hyphae>1],
 stripped_birch_log; [stripped_warped_stem>1],
@@ -120,7 +104,6 @@ birch_button; [warped_button>1],
 birch_trapdoor; [warped_trapdoor>1],
 birch_door; [warped_door>1],
 birch_sapling; [warped_fungus>1],
-
 jungle_log; [crimson_stem>1],
 jungle_wood; [crimson_hyphae>1],
 stripped_jungle_log; [stripped_crimson_stem>1],
@@ -134,7 +117,6 @@ jungle_button; [crimson_button>1],
 jungle_trapdoor; [crimson_trapdoor>1],
 jungle_door; [crimson_trapdoor>1],
 jungle_sapling; [crimson_fungus>1],
-
 acacia_log; [warped_stem>1],
 acacia_wood; [warped_hyphae>1],
 stripped_acacia_log; [stripped_warped_stem>1],
@@ -148,7 +130,6 @@ acacia_button; [warped_button>1],
 acacia_trapdoor; [warped_trapdoor>1],
 acacia_door; [warped_door>1],
 acacia_sapling; [warped_fungus>1],
-
 dark_oak_log; [warped_stem>1],
 dark_oak_wood; [warped_hyphae>1],
 stripped_dark_oak_log; [stripped_warped_stem>1],
