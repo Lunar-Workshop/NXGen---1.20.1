@@ -10,3 +10,7 @@ instance/usercache.json
 instance/usernamecache.json
 instance/config/etf_warnings.json
 instance/config/embeddium-fingerprint.json
+instance/data/fabricDefaultResourcePacks.dat
+instance/debug/profiling/2024-11-20_16_57_31-Zachary - Minecraft World-1_20_1.zip
+instance/defaultconfigs/unlitcampfire-server.toml
+instance/fabricloader.log
