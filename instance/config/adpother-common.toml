@@ -20,7 +20,7 @@ maxGasEntitiesInChunk = 10
 	explosionInteraction = "TNT"
 	#Maximum gas blocks that can be involved in an explosive chain reaction
 	#Range: 0 ~ 2048
-	maxChainLength = 512
+	maxChainLength = 2048
 
 [EmissionSources]
 	#Rate of emissions from this source
