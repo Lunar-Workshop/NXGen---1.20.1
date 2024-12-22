@@ -1,0 +1,7 @@
+//[df-editor]:{"pos":[1127,432],"collapsed":false}
+{
+  //[df-editor]:{"pos":[758,420],"collapsed":false}
+  "type": "min",
+  "argument1": "lithosphere:river_valleys", //[df-editor]:{"pos":[134,406],"collapsed":false}
+  "argument2": "lithosphere:topography_cliffs" //[df-editor]:{"pos":[159,609],"collapsed":false}
+}
