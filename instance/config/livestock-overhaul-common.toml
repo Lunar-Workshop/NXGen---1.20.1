@@ -1,0 +1,41 @@
+
+[Spawning]
+	#Should vanilla horses be replaced by O-Horses?
+	"Replace Vanilla Horses" = true
+	#Should vanilla mules be replaced by O-Mules?
+	"Replace Vanilla Mules" = true
+	#Should vanilla donkeys be replaced by O-Donkeys?
+	"Replace Vanilla Donkeys" = true
+	#Should vanilla cows be replaced by O-Cows?
+	"Replace Vanilla Cows" = true
+	#Should vanilla chickens be replaced by O-Chickens?
+	"Replace Vanilla Chickens" = true
+	#Should vanilla sheep be replaced by O-Sheep?
+	"Replace Vanilla Sheep" = true
+	#Should vanilla pigs be replaced by O-Pigs?
+	"Replace Vanilla Pigs" = true
+	#Should vanilla llamas be replaced by O-Llamas?
+	"Replace Vanilla Llamas" = true
+	#Should vanilla rabbits be replaced by O-Rabbits?
+	"Replace Vanilla Rabbits" = true
+	#Should vanilla  be replaced by O-Salmon?
+	"Replace Vanilla Salmon" = true
+	#Should vanilla cod be replaced by O-Cod?
+	"Replace Vanilla Cod" = true
+	#Should vanilla bees be replaced by O-Bees?
+	"Replace Vanilla Bees" = true
+	#Should vanilla camels be replaced by O-Camels?
+	"Replace Vanilla Camels" = true
+	#Should vanilla goats be replaced by O-Goats?
+	"Replace Vanilla Goats" = true
+
+[Miscellaneous]
+	#Should animals be able to give bi-products regardless of gender?
+	"Genders Affect Bi-Products" = true
+	#Should an animal's gender affect how it breeds?
+	"Genders Affect Breeding" = true
+
+[Uninstalling]
+	#Should all O-Animals be converted back into a vanilla counterpart? WARNING: This should be used *sparingly*, and only when needed/ if this mod is about to be removed.
+	"Failsafe O-Animal -> Vanilla Animal Converter" = false
+

@@ -1,0 +1,24 @@
+{
+  "name": "Rocks",
+  "subPath": "config\cristellib\data\structure_configs",
+  "header": "NxGen Rock Control",
+  "config_type": "PLACEMENT",
+  "comments": {
+    "ancient_cities": "A dark city at the bottom of the World",
+    "buried_treasures.spacing": "Set the spacing of the buried treasure structure set"
+  },
+  "structure_sets": [
+    {
+      "modid": "philipsbiomefeatures",
+      "structure_set": [
+        "philipsbiomefeatures:andesite_rocks",
+		"philipsbiomefeatures:diorite_rocks",
+		"philipsbiomefeatures:granite_rocks",
+		"philipsbiomefeatures:mossy_cobblestone_rocks",
+		"philipsbiomefeatures:oak_wood_logs",
+		"philipsbiomefeatures:spruce_wood_logs",
+		"philipsbiomefeatures:stone_rocks"
+      ]
+    }
+  ]
+}

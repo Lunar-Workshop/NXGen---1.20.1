@@ -1,0 +1,23 @@
+
+/instance/logs
+/.obsidian
+/.install_audit
+instance.json
+/instance/resourcepacks
+/instance/saves
+/instance/mods
+instance/usercache.json
+instance/usernamecache.json
+instance/config/etf_warnings.json
+instance/config/embeddium-fingerprint.json
+instance/data/fabricDefaultResourcePacks.dat
+instance/debug/profiling/2024-11-20_16_57_31-Zachary - Minecraft World-1_20_1.zip
+instance/defaultconfigs/unlitcampfire-server.toml
+instance/fabricloader.log
+/Server - MOVE/servers/NXGen  - DefaultServer/world
+instance/config/betterdeserttemples/README.txt
+instance/config/betterdeserttemples/forge-1_20/README.txt
+instance/config/betterfortresses/forge-1_20/README.txt
+instance/config/betterfortresses/README.txt
+instance/config/betterstrongholds/forge-1_20/README.txt
+instance/config/betterstrongholds/README.txt

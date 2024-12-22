@@ -1,0 +1,69 @@
+//[df-editor]:{"pos":[1567,385],"collapsed":false}
+{
+  //[df-editor]:{"pos":[1198,392],"collapsed":false}
+  "type": "cache_2d",
+  "argument": {
+    //[df-editor]:{"pos":[834,389],"collapsed":false}
+    "type": "minecraft:spline",
+    "spline": {
+      "coordinate": {
+        //[df-editor]:{"pos":[570,378],"collapsed":false}
+        "type": "add",
+        "argument1": {
+          //[df-editor]:{"pos":[294,374],"collapsed":false}
+          "type": "abs",
+          "argument": {
+            //[df-editor]:{"pos":[1,376],"collapsed":false}
+            "type": "mul",
+            "argument1": 1.7, //[df-editor]:{"pos":[-296,271],"collapsed":true}
+            "argument2": {
+              //[df-editor]:{"pos":[-293,396],"collapsed":false}
+              "type": "noise",
+              "noise": "lithosphere:orogeny",
+              "xz_scale": 0.05,
+              "y_scale": 0
+            }
+          }
+        },
+        "argument2": {
+          //[df-editor]:{"pos":[316,538],"collapsed":false}
+          "type": "mul",
+          "argument1": {
+            //[df-editor]:{"pos":[30,579],"collapsed":false}
+            "type": "abs",
+            "argument": {
+              //[df-editor]:{"pos":[-252,585],"collapsed":false}
+              "type": "noise",
+              "noise": "lithosphere:orogeny_variation",
+              "xz_scale": 0.05,
+              "y_scale": 0
+            }
+          },
+          "argument2": -0.6 //[df-editor]:{"pos":[118,772],"collapsed":true}
+        }
+      },
+      "points": [
+        {
+          "location": -0.0035040283203125466,
+          "value": 1.998350721276326,
+          "derivative": 0
+        },
+        {
+          "location": 0.2499296981148097,
+          "value": 0.9996523596722158,
+          "derivative": 0
+        },
+        {
+          "location": 0.5197729033655166,
+          "value": 0.25314325308984703,
+          "derivative": -1.4606879606879732
+        },
+        {
+          "location": 1.0000726756857976,
+          "value": 0.0036632193255106416,
+          "derivative": 0
+        }
+      ]
+    }
+  }
+}

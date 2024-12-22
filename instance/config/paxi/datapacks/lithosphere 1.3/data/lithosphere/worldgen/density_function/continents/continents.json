@@ -1,0 +1,12 @@
+//[df-editor]:{"pos":[504,1410],"collapsed":false}
+{
+  //[df-editor]:{"pos":[47,1408],"collapsed":false}
+  "type": "add",
+  "argument1": "lithosphere:continents/continents_base",
+  "argument2": {
+    //[df-editor]:{"pos":[-366,1454],"collapsed":false}
+    "type": "mul",
+	"argument1": "lithosphere:regions",
+    "argument2": -0.43 //[df-editor]:{"pos":[-712,1599],"collapsed":false}
+  }
+}

@@ -1,0 +1,951 @@
+#### **Core Requirement Mods**
+- Kotlin for Forge
+	- https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge
+	- kotlinforforge-4.11.0-all
+		- Required By:
+				- Resourcify
+				- Valkyrien Skies
+- Lithostitched
+	- https://modrinth.com/mod/lithostitched
+	- **lithostitched-forge-1.20.1-1.3.4**
+		- Required By:
+				- Stony Cliffs
+- Placebo
+	- https://modrinth.com/mod/placebo
+	- **Placebo-1.20.1-8.2.0**
+		- Required By:
+				- Fast Workbench 
+- Forgified Fabric API
+	- https://modrinth.com/mod/forgified-fabric-api
+	- **fabric-api-0.92.2+1.11.8+1.20.1**
+		- Required By:
+				- Sinytra Connector
+				- Ambient Sounds
+				- RPG
+					- Maslik's Puzzle Dungeon
+					- Rogues and Warriors
+					- Spell Engine
+					- Spell Power Attributes
+					- Archers
+					- Ranged Weapon API
+					- Paladins and Priests
+					- Shield API
+					- Runes
+					- Wizards
+					- Jewelry
+					- Structured Pool API
+					- Gazebos
+				- Chiseled Bookshelf Visualizer
+				- BackTools
+				- Antique Atlas 4 
+				- Neruina
+- Toad Lib
+	- https://modrinth.com/mod/toadlib
+	- **ToadLib-1.20.1-1.1.5**
+		- Required By:
+				- Enlightened Blocks Entity
+- Creative Core
+	- https://modrinth.com/mod/creativecore
+	- **CreativeCore_FORGE_v2.12.22_mc1.20.1**
+		- Required By:
+				- Ambient Sounds
+- Cloth Config
+	- https://modrinth.com/mod/cloth-config
+	- **cloth-config-11.1.136-forge**
+		- Required By:
+				- Valkyrien Skies
+				- Simple Voice Chat
+				- Sound Physics Remastered
+				- Snow! Real Magic!
+				- Better Combat
+				- Spell Engine
+				- BackTools
+				- Better F3
+- Lexi Config
+	- https://modrinth.com/mod/lexiconfig
+	- **Lexiconfig-forge-1.3.11**
+		- Required By:
+				- Simple Voice Radio
+				- Vibrative Voice
+				- Drip Sounds
+- Yung's Api
+	- https://modrinth.com/mod/yungs-api
+	- **YungsApi-1.20-Fabric-4.0.6**
+		- Required By
+			- Paxi
+			- Yung's 
+				- Yung's Better Mineshafts
+				- Yung's Better Strongholds
+				- Yung's Better Nether Fortresses
+				- Yung's Better Ocean Monuments
+				- Yung's Better Witch Huts
+				- Yung's Better Bridges
+				- Yung's Better Dungeon
+				- Yung's  Cave Biome
+				- Yung's Better Jungle Temples
+				- Yung's Better Desert Temples
+				- Yung's Extras
+- Glitch Core
+	- https://modrinth.com/mod/glitchcore
+	- **GlitchCore-forge-1.20.1-0.0.1.1**
+		- Required By:
+				- Serene Seasons
+- Kiwi
+	- https://modrinth.com/mod/kiwi
+	- **Kiwi-1.20.1-Forge-11.8.20**
+		- Required By:
+				- Snow Real Magic
+- Moonlight Lib
+	- https://modrinth.com/mod/moonlight
+	- **moonlight-1.20-2.13.25-forge**
+		- Required By:
+				- Immersive Weathering
+				- Amendments
+- Collective
+	- https://modrinth.com/mod/collective
+	- **collective-1.20.1-7.87**
+		- Required By:
+				- Nether Portal Spread
+				- Skeleton Horse Spawn
+				- Zombie Horse Spawn
+- Balm
+	- https://modrinth.com/mod/balm
+	- **balm-forge-1.20.1-7.3.9**
+		- Required by:
+				- Nether Portal Fix
+				- Hardcore Revival
+- Citadel
+	- https://modrinth.com/mod/citadel
+	- **citadel-2.6.0-1.20.1**
+		- Required By:
+			- Alex's Mobs
+- Let's Do Api
+	- https://modrinth.com/mod/do-api
+	- **letsdo-API-forge-1.2.15-forge**
+		- Required By
+				- Blooming Nature
+- Architectury API
+	- https://modrinth.com/mod/architectury-api
+	- **architectury-9.2.14-forge**
+		- Required By
+				- Blooming Nature
+				- OctoLib
+- Create
+	- https://www.curseforge.com/minecraft/mc-mods/create
+	- create-1.20.1-0.5.1.j
+		- Required By
+				- Dynamic Trees Create Compat
+				- Create Steam 'n' Rails
+				- Create Enchantment Industry
+				- Create Bells & Whistles
+				- Create Design 'n' Decor
+				- Create Diesel Generators
+				- Create Numismatics
+				- Exposure
+- Geckolib
+	- https://modrinth.com/mod/geckolib
+	- geckolib-neoforge-1.20.1-4.4.9
+		- Required By:
+				- Yung's Cave Biome
+				- Realm RPG - Pots and Mimics
+				- Burnt
+				- Creeper Overhaul
+				- Enderman Overhaul
+				- Wither Spawn Animation
+- TerraBlender
+	- https://modrinth.com/mod/terrablender
+	- **TerraBlender-forge-1.20.1-3.0.1.7
+		- Required By:
+				- Yung's Cave Biome
+- Cristel Lib
+	- https://legacy.curseforge.com/minecraft/mc-mods/cristel-lib
+	- cristellib-1.1.5-forge
+		- Required by:
+				- Towns and Towers
+- Player Animator
+	- https://modrinth.com/mod/playeranimator
+	- player-animation-lib-forge-1.0.2-rc1+1.20
+		- Required By:
+				- Better Combat
+				- Spell Engine
+				- Better Falling
+- AzureLib Armor
+	- https://modrinth.com/mod/azurelib-armor
+	- azurelibarmor-fabric-1.20.1-2.0.12
+		- Required by:
+				- Rogues and Warriors
+				- Archers
+				- Paladins and Priests
+				- Wizards
+				- Deathknights
+- Spell Engine
+	- https://modrinth.com/mod/spell-engine
+	- spell_engine-0.15.11+1.20.1
+		- Required By
+				- Rogues and Warriors
+				- Archers 
+				- Paladins and Priests
+				- Wizards
+				- Deathknights
+- Spell Power Attributes
+	- https://modrinth.com/mod/spell-power
+	- spell_power-0.12.0+1.20.1
+		- Required by:
+				- Spell Engine
+				- Wizards
+				- Deathknights
+				- Jewelry
+- Ranged Weapon API
+	- https://modrinth.com/mod/ranged-weapon-api
+	- ranged_weapon_api-1.1.4+1.20.1
+		- Required By
+				- Archers
+				- Jewelry
+- Shield API
+	- https://modrinth.com/mod/shield-api
+	- **ShieldAPI-1.0.1+1.20.1**
+		- Required by
+				- Paladins and Priests
+- Necronomicon
+	- https://modrinth.com/mod/necronomicon
+	- Necronomicon-Forge-1.6.0+1.20.1
+		- Require By
+				- Deathknights
+- Structured Pool API
+	- https://modrinth.com/mod/structure-pool-api
+	- **structure_pool_api-1.0+1.20.1**
+		- Required By
+				- Jewelry
+				- Gazebos
+- Yet Another Config Lib
+	- https://modrinth.com/mod/yacl
+	- yet-another-config-lib-forge-3.2.2+1.20
+		- Required By
+				- Reactive Music
+- Surveyor Map Framework
+	- https://modrinth.com/mod/surveyor
+	- **surveyor-0.6.24+1.20**
+		- Required by:
+				- Antique Atlas 4
+- Octo Lib
+	- https://www.curseforge.com/minecraft/mc-mods/octo-lib
+	- OctoLib-QUILT-0.4.2+1.20.1
+		- Required By
+				- Immersive UI
+- Prism
+	- https://modrinth.com/mod/prism-lib
+	- Prism-1.20.1-forge-1.0.5**
+		- Required by
+				- Legendary ToolTips
+- Iceberg
+	- https://modrinth.com/mod/iceberg
+	- Iceberg-1.20.1-forge-1.1.21
+		- Required by
+				- Legendary Tooltips
+				- Advancement Plaques
+- Puzzles Lib
+	- https://modrinth.com/mod/puzzles-lib
+	- PuzzlesLib-v8.1.17-1.20.1
+		- Required By
+				- Fuzs
+					- Pick up Notifier
+					- Visual Workbench
+					- Effect Descriptions
+					- Easy Shulker Boxes
+					- Diagonal Walls
+					- Diagonal Windows
+					- Better Tridents
+					- Block Runner
+					- Stylish Effects
+					- Stoneworks
+					- Diagonal Fences
+					- Easy Anvils
+- Bookshelf
+	- https://modrinth.com/mod/bookshelf-lib
+	- Bookshelf-Forge-1.20.1-20.2.13
+		- Required By
+				- Tips
+- Coro Util
+	- https://modrinth.com/mod/coroutil
+	- coroutil-forge-1.20.1-1.3.7
+		- Required By
+			- What Are They Up To (Watut)
+			- Enchantment Description
+- Resourceful Config
+	- https://modrinth.com/mod/resourceful-config
+	- resourcefulconfig-forge-1.20.1-2.1.2
+		- Required By
+				- Creeper Overhaul
+				- Enderman overhaul
+- Resourceful Lib
+	- https://modrinth.com/mod/resourceful-lib
+	- resourcefullib-forge-1.20.1-2.1.29
+		- Required By
+				- Creeper Overhaul
+				- Enderman Overhaul
+- Formations
+	- https://modrinth.com/mod/formations
+	- formations-1.0.2-forge-mc1.20
+		- Required By 
+				- Formations Nether
+- Curios API
+	- https://modrinth.com/mod/curios
+	- curios-forge-5.11.0+1.20.1
+		- Required By
+				- Curious Lanterns
+				- Radiant Gear
+				- Charm of Undying
+				- Elytra Slot
+- Radiant Gear
+	- https://modrinth.com/mod/radiant-gear
+	- radiantgear-forge-2.1.5+1.20.1
+		- Required by
+				- Curious Lanterns
+- Forge End Tech
+	- https://www.curseforge.com/minecraft/mc-mods/forgeendertech
+	- ForgeEndertech-1.20.1-11.1.5.0-build.0890
+		- Required By
+				- Advanced Chimneys
+				- Pollution of the Realms
+- Caelus API
+	- https://modrinth.com/mod/caelus
+	- caelus-forge-3.2.0+1.20.1
+		- Required By
+				- Elytra Slot
+
+#### **Performance**
+
+- Noisium
+	- https://www.curseforge.com/minecraft/mc-mods/noisium
+	- noisium-forge-2.3.0+mc1.20-1.20.1
+- Ferrite Core
+	- https://www.curseforge.com/minecraft/mc-mods/ferritecore
+	- ferritecore-6.0.1-forge
+- Clumps
+	- https://www.curseforge.com/minecraft/mc-mods/clumps
+	- Clumps-forge-1.20.1-12.0.0.4
+- Fast Workbench
+	- https://www.curseforge.com/minecraft/mc-mods/fastworkbench
+	- FastWorkbench-1.20.1-8.0.4
+- Alternate Current
+	- https://www.curseforge.com/minecraft/mc-mods/alternate-current 
+	- alternate_current-mc1.20-1.7.0
+- Enlightened Block Entity
+	- https://modrinth.com/mod/ebe-forge/version/0.9.1-BETA
+	- **EBE-1.20-1.20.1-0.9.1B**
+- FPS Reducer
+	- https://modrinth.com/mod/fps-reducer
+	- **FpsReducer2-forge-1.20-2.5
+- Remove Reloading Screen
+	- https://modrinth.com/mod/rrls
+	- rrls-4.0.6.1+mc1.20.1-forge
+- Neruina
+	- https://modrinth.com/mod/neruina
+	- Neruina-2.1.2-forge+1.20.1
+
+
+#### **World Generation
+
+- Environment:
+	- Lithosphere 
+		- https://www.curseforge.com/minecraft/mc-mods/lithosphere
+		- lithosphere 1.2 25.06.2024
+	- Distant Horizons
+		- https://www.curseforge.com/minecraft/mc-mods/distant-horizons
+		- DistantHorizons-2.2.1-a-1.20.1-forge-fabric
+	- Stony Cliffs are Cool
+		- https://modrinth.com/datapack/stony-cliffs-are-cool
+		- **Stony Cliffs for Lithostitched v1.1.2**
+	- Blossom Blade
+		- https://modrinth.com/datapack/blossom-blade
+		- **blossom-blade-1.2** 
+	- The END 
+		- End Remastered
+			- https://modrinth.com/mod/endrem
+			- endrem_forge-5.3.3-R-1.20.1
+		- Nullscape
+			- https://modrinth.com/datapack/nullscape
+			- Nullscape_1.20.x_v1.2.8
+		- True Ending
+			- https://modrinth.com/datapack/true-ending
+			- tru.e-ending-v1.1.0c
+		- End Ores
+			- https://www.curseforge.com/minecraft/mc-mods/end-ores
+			- endores-1.20.1-r1
+	- The Nether
+		- Nether Ores Plus+
+			- https://www.curseforge.com/minecraft/mc-mods/nether-ores-plus
+			- Nether Ores Plus+ 1.0.0 - 1.20.1
+		- Amplified Nether
+			- https://modrinth.com/datapack/amplified-nether
+			- Amplified_Nether_1.20.x_v1.2.5
+- Structures:
+	- Overworld
+		- Sparse Structures Reforged
+			- https://modrinth.com/mod/sparsestructuresreforged
+			- **sparsestructuresreforged-1.20.1-0.0.1**
+		- Towns and Towers
+			- https://legacy.curseforge.com/minecraft/mc-mods/towns-and-towers
+			- Towns-and-Towers-1.11.1-Fabric+Forge
+		- Yung's Mods
+			- Yung's Better Mineshaft
+				- https://modrinth.com/mod/yungs-better-mineshafts
+				- YungsBetterMineshafts-1.20-Forge-4.0.4
+			- Yung's Better Strongholds
+				- https://modrinth.com/mod/yungs-better-strongholds
+				- YungsBetterStrongholds-1.20-Forge-4.0.3
+			- Yung's Better Nether Fortresses
+				- https://modrinth.com/mod/yungs-better-nether-fortresses
+				- YungsBetterNetherFortresses-1.20-Forge-2.0.6
+			- Yung's Better Ocean Monuments
+				- https://modrinth.com/mod/yungs-better-ocean-monuments
+				- YungsBetterOceanMonuments-1.20-Forge-3.0.4
+			- Yung's Better Witch Huts
+				- https://modrinth.com/mod/yungs-better-witch-huts
+				- YungsBetterWitchHuts-1.20-Forge-3.0.3
+			- Yung's Bridges
+				- https://modrinth.com/mod/yungs-bridges
+				- YungsBridges-1.20-Forge-4.0.3
+			- Yung's Better Dungeons
+				- https://modrinth.com/mod/yungs-better-dungeons
+				- **YungsBetterDungeons-1.20-Forge-4.0.4**
+			- Yung's Cave Biomes
+				- https://modrinth.com/mod/yungs-cave-biomes
+				- **YungsCaveBiomes-1.20.1-Forge-2.0.1**
+			- Yung's Better Jungle Temple
+				- https://modrinth.com/mod/yungs-better-jungle-temples
+				- YungsBetterJungleTemples-1.20-Forge-2.0.5
+			- Yung's Better Desert Temples
+				- https://modrinth.com/mod/yungs-better-desert-temples
+				- YungsBetterDesertTemples-1.20-Forge-3.0.3
+			- Yung's Extras
+				- https://modrinth.com/mod/yungs-extras
+					- YungsExtras-1.20-Forge-4.0.3
+		- Hopo Better Underwater Ruins
+			- https://modrinth.com/datapack/hopo-better-underwater-ruins 
+			- HopoBetterUnderwaterRuins-[1.20.2-1.20.4]-1.1.5
+		- Tidal Towns
+			- https://modrinth.com/datapack/tidal-towns
+			- tidal-towns-1.3.3_neo
+		- Masik's Puzzle Dungeon
+			- https://modrinth.com/mod/puzzle-dungeon
+			- puzzledungeon-forge-1.20.1-1.2.0
+		- Dungeon and Taverns Ancient City Overhaul
+			- https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul
+			- **dungeons-and-taverns-ancient-city-overhaul-1**
+		- Revamped Shipwrecks 
+			- https://modrinth.com/datapack/revamped-shipwrecks
+			- **Revamped Shipwrecks 1.0.1**
+		- Philip's Ruins
+			- https://modrinth.com/mod/philips-ruins
+			- **Philips-Ruins1.20.1-4.6**
+	- The Nether
+		- https://modrinth.com/mod/formations-nether
+		- formationsnether-1.0.5
+	- The End
+		-  Better End Cities Vanilla
+			- https://modrinth.com/mod/better-end-cities-base
+			- betterendcities-1.0.0-1.20.1 
+		- Bigger Better End Cities
+			- https://modrinth.com/mod/bigger-better-end-cities
+			- biggerendcities-1.20.1-1.0.0
+
+
+#### **Rendering Engines Mods:
+**
+- Embeddium 
+	- https://www.curseforge.com/minecraft/mc-mods/embeddium
+	- embeddium-0.3.31+mc1.20.1
+- Embeddium (Rubidium) Extras - 
+	- https://www.curseforge.com/minecraft/mc-mods/rubidium-extra
+	- rubidium-extra-0.5.4.3+mc1.20.1-build.121
+- Sodium/Embeddium Dynamic Lights
+	- https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
+	- dynamiclightsreforged-1.20.1_v1.6.0
+- ETF Entity Texture Features
+	- https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric
+	- entity_texture_features_forge_1.20.1-6.2.7
+- EMF Entity Model Features
+	- https://www.curseforge.com/minecraft/mc-mods/entity-model-features
+	- entity_model_features_forge_1.20.1-2.2.6
+-  Forge CIT
+	- https://www.curseforge.com/minecraft/mc-mods/forge-cit
+	- citresewn-1.20.1-5
+
+
+#### **Launcher** **Compat
+**
+-  Sinytra Connector
+	- https://modrinth.com/mod/connector
+	- **Connector-1.0.0-beta.46+1.20.1**
+		- Required by
+			  - Forgefied MT Inventory Weight 
+- Paxi
+	- https://modrinth.com/mod/paxi
+	- **Paxi-1.20-Forge-4.0**
+- Better Compatibility Checker
+	- https://modrinth.com/mod/better-compatibility-checker
+	- **BetterCompatibilityChecker-neo-4.0.8+mc1.20.1**
+#### **User Interface:
+
+- Resource Packs
+	- Resourcify
+		- https://www.curseforge.com/minecraft/mc-mods/resourcify
+		- Resourcify (1.20-1.20.1-forge)-1.5.1
+- HUD
+	- AppleSkin
+		- https://modrinth.com/mod/appleskin
+		- appleskin-forge-mc1.20.1-2.5.1
+	- JeremySeq's Damage Indicator
+		- https://modrinth.com/mod/jeremyseqs-damage-indicator
+		- damageindicator-2.0.0-1.20.1
+	- Better F3
+		- https://modrinth.com/mod/betterf3
+		- BetterF3-7.0.2-Forge-1.20.1
+- Inventory
+	- EMI
+		- https://modrinth.com/mod/emi
+		- **emi-1.1.18+1.20.1+forge**
+	- Inventory Tweaks: ReFoxed
+		- https://modrinth.com/mod/inventory-weight
+		- invtweaks-1.20.1-1.1.0
+	- Immersive UI
+		- https://www.curseforge.com/minecraft/mc-mods/immersive-ui
+		- ImmersiveUI-FORGE-0.2.2
+	- Legendary Tooltips
+		- https://modrinth.com/mod/legendary-tooltips
+		- **LegendaryTooltips-1.20.1-forge-1.4.5**
+	- Mouse Tweaks
+		- https://modrinth.com/mod/mouse-tweaks
+		- MouseTweaks-forge-mc1.20.1-2.25.1
+	- Enchantment Description
+		- https://modrinth.com/mod/enchantment-descriptions
+		- EnchantmentDescriptions-Forge-1.20.1-17.1.19
+	- Effect Descriptions
+		- https://modrinth.com/mod/effect-descriptions
+		- EffectDescriptions-v8.0.2-1.20.1-Forge
+	- Stylish Effects
+		- https://modrinth.com/mod/stylish-effects
+		- StylishEffects-v8.0.2-1.20.1-Forge
+	- Dynamic Trim
+		- https://modrinth.com/mod/dynamic-trim
+		- dynamictrim-1.2.1-forge+1.20.1
+	- Slot Upgrades
+		- Charm of Undying
+			- https://modrinth.com/mod/charm-of-undying
+			- charmofundying-forge-6.5.0+1.20.1
+		- Elytra Slot
+			- https://modrinth.com/mod/elytra-slot
+			- elytraslot-forge-6.4.0+1.20.1
+- Crafting Blocks
+	- Visual Workbench
+		- https://modrinth.com/mod/visual-workbench
+		- **VisualWorkbench-v8.0.0-1.20.1-Forge**
+	- Easy Anvils
+		- https://modrinth.com/mod/easy-anvils
+		- EasyAnvils-v8.0.2-1.20.1-Forge
+	- Easy Shulker Boxes
+		- https://modrinth.com/mod/easy-shulker-boxes
+		- EasyShulkerBoxes-v8.0.2-1.20.1-Forge
+- Item Drops
+	- Loot Beams: Relooted
+		- https://modrinth.com/mod/loot-beams
+		- **lootbeams-1.20.1-1.2.2**
+	-  Pick Up Notifier
+		- https://modrinth.com/mod/pick-up-notifier
+		- **PickUpNotifier-v8.0.0-1.20.1-Forge**
+- Achievements
+	- Better Advancements
+		- https://modrinth.com/mod/better-advancements
+		- **BetterAdvancements-NeoForge-1.20.1-0.4.2.10**
+	- Advancement Plaques
+		- https://modrinth.com/mod/advancement-plaques
+		- AdvancementPlaques-1.20.1-forge-1.4.9
+- Menu / Loading Screen
+	- Tips
+		- https://modrinth.com/mod/tips/version/tEp1qnxU
+		- Tips-Forge-1.20.1-12.0.4
+	- World Play Time
+		- https://www.curseforge.com/minecraft/mc-mods/world-play-time
+		- worldplaytime-1.2.2-1.20.x-FORGE
+	- Server Country Flags
+		- https://modrinth.com/mod/server-country-flags
+		- servercountryflags-1.8.1-1.20.x-FORGE
+- Character
+	- What Are They Up To (WATUT) 
+		- https://modrinth.com/mod/what-are-they-up-to
+		- watut-forge-1.20.1-1.1.3
+
+
+#### **Graphics**
+
+- Lighting 
+	- True Darkness
+		- https://www.curseforge.com/minecraft/mc-mods/true-darkness-forge-updated-fork
+		- darkness-forge-1.20.1-2.0.103-fork
+- Explosions
+	- Explosive Enhancement: Reforged
+		- https://modrinth.com/mod/explosive-enhancement-forge
+		- **explosiveenhancement-1.0.0.**
+	
+
+#### **Audio**
+
+- Ambient Sounds
+	- https://modrinth.com/mod/ambientsounds
+	- **AmbientSounds_FABRIC_v6.1.3_mc1.20.1**
+- Sound Physics Remastered
+	- https://modrinth.com/mod/sound-physics-remastered
+	- **sound-physics-remastered-forge-1.20.1-1.4.5**
+- Drip Sounds (Forge)
+	- https://modrinth.com/mod/waterdripsound
+	- **DripSounds-1.19.4-0.3.2**
+- Simple Voice Chat
+	- https://modrinth.com/mod/simple-voice-chat
+	- voicechat-forge-1.20.1-2.4.32
+- Simple Voice Radio
+	- https://modrinth.com/mod/simple-voice-radio
+	- **SimpleRadio-forge-1.20.1-2.4.6.1**
+- Vibrative Voice
+	- https://modrinth.com/mod/vibrative-voice
+	- **VibrativeVoice-forge-1.20.1-1.1.0
+- Reactive Music
+	- https://modrinth.com/mod/reactive-music
+	- reactivemusic-0.5.1+1.20.1
+- Localized Chat
+	- https://modrinth.com/mod/localized-chat
+	- LocalizedChat-forge-1.20.1-5.1.2
+
+#### **Gameplay**
+
+- Bug Fixes
+	- Nether Portal Fix
+		- https://modrinth.com/mod/netherportalfix
+		- **netherportalfix-forge-1.20-13.0.0**
+- Building
+	- Create
+		- Create Enchantment Industry
+			- https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry
+			- create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d
+		- Create Bells & Whistles
+			- https://modrinth.com/mod/bellsandwhistles
+			- **bellsandwhistles-0.4.3-1.20.x**
+		- Create Design 'n' Decor
+			- https://modrinth.com/mod/create-design-n-decor
+			- **design_decor-0.4.0b-1.20.1**
+		- Create: Metal Work
+			- https://modrinth.com/mod/create-metalwork
+			- **create-metalwork-1.20.1-1.0.9-forge**
+	- Diagonal Walls
+		- https://modrinth.com/mod/diagonal-walls
+		- DiagonalWalls-v8.0.3-1.20.1-Forge
+	- Diagonal Windows
+		- https://modrinth.com/mod/diagonal-windows
+		- DiagonalWindows-v8.1.4-1.20.1-Forge
+	- Diagonal Fences
+		- https://modrinth.com/mod/diagonal-fences
+		- DiagonalFences-v8.1.4-1.20.1-Forge
+	- Stoneworks
+		- https://modrinth.com/mod/stoneworks
+		- Stoneworks-v8.0.0-1.20.1-Forge
+- Loot
+	- Realm RPG - Pots and Mimics
+		- https://www.curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg
+		- realmrpg_pots_and_mimics_1.0.2_forge_1.20.1
+	- Lootr
+		- https://www.curseforge.com/minecraft/mc-mods/lootr
+		- lootr-forge-1.20-0.7.34.89
+-  Vanilla Mechanic Tweaks
+	- Realistic Torches
+		- https://modrinth.com/mod/realistic-torches
+		- RealisticTorches-1.20.1-3.2.0
+	- Immersive Weathering
+		- https://modrinth.com/mod/immersive-weathering
+		- **immersive_weathering-1.20.1-2.0.3-forge**
+	- Burnt
+		- https://modrinth.com/mod/burnt
+		- **burnt-1.8.3.1_forge_1.20.1**
+	- Unlit Campfires
+		- https://modrinth.com/mod/unlit-campfire
+		- unlitcampfire-forge-1.20.1-1.9.1.1
+	- Chiseled Bookshelf Visualizer
+		- https://modrinth.com/mod/chiseled-bookshelf-visualizer
+		- Chiseled-Bookshelf-Visualizer-1.20-2.0
+	- Antique Atlas 4 
+		- https://modrinth.com/mod/antique-atlas-4
+		- **antique-atlas-2.10.0+1.20**
+	- Connectible Chains
+		- https://www.curseforge.com/minecraft/mc-mods/connectible-chains-forge
+		- Connectible Chains-forge-1.20.1-1.0.0
+	- Amendments
+		- https://modrinth.com/mod/amendments
+		- amendments-1.20-1.2.12
+	- Advanced Chimneys
+		- https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
+		- AdChimneys-1.20.1-10.1.15.0-build.0828
+	-  Soul Fired
+		- https://modrinth.com/mod/soul-fire-d
+		- soulfired-1.20.1-3.2.0.1-final-forge
+	
+- Enchantments
+	- Vein Mining
+		- https://modrinth.com/mod/vein-mining
+		- **veinmining-forge-1.5.0+1.20.1**
+	-
+
+- Character
+	- Diet Mod
+		- https://modrinth.com/mod/diet
+		- **diet-forge-2.1.1+1.20.1**
+	- Realm RPG Fallen Adventurers
+		- https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers
+		- realmrpg_fallen_adventurers_1.0.3_forge_1.20.1
+	- RPG Series
+		- Better Combat
+			- https://modrinth.com/mod/better-combat
+			- bettercombat-forge-1.8.0+1.20.1
+		- Rogues & Warriors
+			- https://modrinth.com/mod/rogues-and-warriors
+			- rogues-1.1.0+1.20.1
+		- Archers 
+			- https://modrinth.com/mod/archers
+			- archers-1.2.5+1.20.1
+		- Paladins and Priests
+			- https://modrinth.com/mod/paladins-and-priests
+			- paladins-1.3.1+1.20.1
+		- Trinkets
+			- https://modrinth.com/mod/trinkets
+			- trinkets-3.7.2
+				- Required by
+						- Spell Engine
+						- Jewelry
+		- Runes
+			- https://modrinth.com/mod/runes
+			- **runes-0.9.13+1.20.1**
+				- Required By
+						- Paladins and Priests
+						- Wizards
+						- Death Knights
+		- Wizards
+			- https://modrinth.com/mod/wizards
+			- wizards-1.3.0+1.20.1
+		- Death Knights 
+			- https://modrinth.com/mod/death-knights
+			- **Death_Knights-0.6.0beta+1.20.1**
+		- Jewelry
+			- https://modrinth.com/mod/jewelry
+			- Jewelry-1.3.7+1.20.1
+		- Gazebos
+			- https://modrinth.com/mod/gazebos
+			- **gazebo-1.1.1+1.20.1**
+	- Corpse
+		- https://modrinth.com/mod/corpse
+		- corpse-1.20.1-1.0.9
+	- Back Tools
+		- https://modrinth.com/mod/backtools
+		- backtools-1.20.1-2
+	- Create Numismatics
+		- https://modrinth.com/mod/numismatics
+		- **CreateNumismatics-1.0.7+forge-mc1.20.1**
+	- Forgefied MT Inventory Weight
+		- https://modrinth.com/mod/inventory-weight
+		- inventory-weight-Forgefied_1.3.4_1.20.1
+	- Better Falling
+		- https://www.curseforge.com/minecraft/mc-mods/better-falling
+		- Better Falling-forge-1.2.0-mc1.20.1
+- Transport
+	- Valkyrien Skies
+		- https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies
+		- valkyrienskies-120-2.3.0-beta.5
+	- Clockwork: Create X Valkyrien Skies
+		- https://www.curseforge.com/minecraft/mc-mods/create-clockwork
+		- clockwork-1.20.1-0.1.16-forge-b3b22e39fe
+	- Create Steam 'n' Rails
+		- https://modrinth.com/mod/create-steam-n-rails
+		- **Steam_Rails-1.6.7+forge-mc1.20.1**
+	- Create Diesel Generators
+		- https://modrinth.com/mod/create-diesel-generators
+		- **createdieselgenerators-1.20.1-1.2i**
+	- Astikor Carts TFC
+		- https://www.curseforge.com/minecraft/mc-mods/astikor-carts-tfc
+		- astikorcarts-1.20.1-1.1.8
+- Tools
+	- Better Tridents
+		- https://modrinth.com/mod/better-tridents
+		- BetterTridents-v8.0.1-1.20.1-Forge
+	- Curious Lanterns
+		- https://modrinth.com/mod/curious-lanterns
+		- curiouslanterns-1.20.1-1.3.3
+	- Nature's Compass
+		- https://modrinth.com/mod/natures-compass
+		- **NaturesCompass-1.20.1-1.11.2-forge**
+	- Chalk
+		- https://modrinth.com/mod/chalk-mod
+		- chalk-1.20.1-1.6.4
+	
+- Mobs
+	- Animals
+		- Aquaculture 2
+			- https://www.curseforge.com/minecraft/mc-mods/aquaculture
+			- Aquaculture-1.20.1-2.5.1
+		- Alex's Mobs
+			- https://modrinth.com/mod/alexs-mobs
+			- **alexsmobs-1.22.9**
+		- Snowy Sniffer
+			- https://modrinth.com/mod/snow-sniffer
+			- snowysniffer-1.20.1-1.0.0
+		- Horses
+			- Kaffee's Dual Ride
+				- https://www.curseforge.com/minecraft/mc-mods/kaffees-dual-ride
+				- Kaffee's_Dual_Ride-mc1.20.1-1.1.0
+			- Callable Horse
+				- https://www.curseforge.com/minecraft/mc-mods/callable-horses
+				- callablehorses-1.20.1-1.3.0.1
+		- DragNs Livestock Overhaul
+			- https://modrinth.com/mod/dragns-livestock-overhaul
+			- **DragNs_Livestock_Overhaul-1.20.1-1.4**
+	- Hostile Mobs
+		- Zombie Horse Spawn
+			- https://modrinth.com/mod/zombie-horse-spawn
+			- zombiehorsespawn-1.20.1-5.1
+		- Skeleton Horse Spawn
+			- https://modrinth.com/mod/skeleton-horse-spawn
+			- skeletonhorsespawn-1.20.1-4.0
+		- Nyfs Spiders
+			- https://modrinth.com/mod/nyfs-spiders
+			- nyfsspiders-forge-1.20.1-2.1.1
+		- Nebulus Moe Spiders
+			- https://www.curseforge.com/minecraft/mc-mods/nebulus-new-spiders
+			- nebulus_moe_spiders-1.0.2
+		- Creeper Overhaul
+			- https://modrinth.com/mod/creeper-overhaul
+			- creeperoverhaul-3.0.2-forge
+		- Enderman Overhaul
+			- https://modrinth.com/mod/enderman-overhaul
+			- endermanoverhaul-forge-1.20.1-1.0.4
+		- Nether Skeleton
+			- https://modrinth.com/mod/netherskeletons
+			- netherskeletonsneoforge1.20.1
+		- Wither Spawn Animation
+			- https://www.curseforge.com/minecraft/mc-mods/wither-spawn-animation
+			- wither_spawn_animation-1.2-forge-1.20.1
+			
+	- Villagers
+		- Guard Villagers
+			- https://modrinth.com/mod/guard-villagers
+			- **guardvillagers-1.20.1-1.6.7**
+
+### **Environment**
+
+- Difficulty
+	- Hardcore Revival
+		- https://modrinth.com/mod/hardcore-revival
+		- **hardcorerevival-forge-1.20.1-12.0.6
+	- Simple Hardcore Respawn
+		- https://www.curseforge.com/minecraft/mc-mods/simple-hardcore-respawn
+		- simple_hardcore_respawn-1.0.2-forge-1.20.1
+- Weather 
+	- Serene Seasons
+		- https://modrinth.com/mod/serene-seasons
+		- **SereneSeasons-1.20.1-9.0.0.43
+	- Snow! Real Magic!
+		- https://modrinth.com/mod/snow-real-magic
+		- **SnowRealMagic-1.20.1-forge-9.1.2**
+	- Simple Clouds
+		- https://modrinth.com/mod/simple-clouds
+		- simpleclouds-0.6.3+1.20.1-forge-all
+- Botanical
+	- Glowing Torchflower
+		- https://modrinth.com/mod/glowing-torchflower
+		- **glowing-torchflower-1.20-1.1.0
+	-  Blooming Nature
+		- https://modrinth.com/mod/lets-do-bloomingnature
+		- **letsdo-bloomingnature-forge-1.0.8**
+	- Realistic Wheat
+		- https://www.curseforge.com/minecraft/mc-mods/realistic-wheat
+		- Realistic Wheat 1.3 - 1.20
+	- Dynamic Trees
+		- Dynamic Trees
+			- https://modrinth.com/mod/dynamictrees
+			- **DynamicTrees-1.20.1-1.3.3**
+		- Dynamic Trees +
+			- https://modrinth.com/mod/dynamictreesplus
+			- **DynamicTreesPlus-1.20.1-1.2.0-BETA3**
+		- Dynamic Trees - Alex's Mobs
+			- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-alexs-mobs
+			- DynamicTreesAlexsMobs-1.20.1-1.0.0
+		- Dynamic Trees - Blooming Nature
+			- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-for-bloomingnature
+			- dtbloomingnature-1.20.1-forge-1.0.2
+		- Dynamic Trees Create Compat
+			- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-create-compat
+			- dynamictrees_createcompat-1.0.1
+		- Dynamic Trees - PHC2 Trees
+			- https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-pams-harvestcraft-2
+			- DynamicTreesPHC2-1.20.1-1.3.1
+	- Serene Seasons - Pam's HarvestCraft 2: Trees Compat
+		- https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat
+		- sereneseasonsphc2trees-1.20.1-1.0.0
+	- Serene Seasons - Pam's HarvestCraft 2: Crops Compat
+		- https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-crops-compat
+		- sereneseasonsphc2crops-1.20.1-1.0.0
+	- Pam's Harvestcraft 2
+		- Pam's Harvestcraft 2 Trees
+			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees
+			- pamhc2trees-1.20-1.0.2
+		- Pam's Harvestcraft 2 Food Core
+			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
+			- pamhc2foodcore-1.20.4-1.0.5
+		- Pam's Harvestcraft 2 Crops
+			- https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
+			- pamhc2crops-1.20-1.0.3
+	- Tumbleweed
+		- https://www.curseforge.com/minecraft/mc-mods/tumbleweed
+		- Tumbleweed-forge-1.20.1-0.5.5
+	- Plants Need Light
+		- https://modrinth.com/mod/plants-need-light!
+		- **PlantsNeedSunlight-forge-1.20.1-0**
+- Terrain
+	- Nether Portal Spread
+		- https://modrinth.com/mod/nether-portal-spread
+		- **netherportalspread-1.20.1-8.3**
+	- Simply Desire Paths
+		- https://www.curseforge.com/minecraft/mc-mods/simply-desire-paths
+		- SimplyDesirePaths-1.0.0-forge-1.20.1
+	- Block Runner
+		- https://modrinth.com/mod/block-runner
+		- BlockRunner-v8.0.4-1.20.1-Forge
+- Philip's Biome Features
+	- https://modrinth.com/mod/philips-biome-features
+	- Philips-Biome-Features1.20.1-1.6.1
+
+- Hourglass
+	- https://modrinth.com/mod/hourglass
+	- **hourglass-1.20-1.2.1.1**
+- World Preview
+	- https://modrinth.com/mod/world-preview
+	- **world_preview-forge-1.20.1-1.3.1**
+- Pollution of the Realms
+	- https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
+	- AdPother-1.20.1-8.1.23.0-build.0852
+
+### Player Utilities
+
+- No chat Reports
+	- https://modrinth.com/mod/no-chat-reports
+	- NoChatReports-FORGE-1.20.1-v2.2.2
+- Delete Worlds to Trash
+	- https://modrinth.com/mod/delete-worlds-to-trash
+	- DeleteWorldsToTrash-v8.0.0-1.20.1-Forge
+- Better F1 Reborn
+	- https://modrinth.com/mod/better-f1-reborn
+	- BetterF1-1.0
+- Exposure
+	- https://modrinth.com/mod/exposure
+	- exposure-1.20.1-1.7.7-forge
+- In Control
+	- https://modrinth.com/mod/in-control
+	- **incontrol-1.20-9.2.11**
+- Configured
+	- https://www.curseforge.com/minecraft/mc-mods/configured
+	- configured-forge-1.20.1-2.2.3

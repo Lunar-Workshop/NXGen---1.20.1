@@ -1,0 +1,5 @@
+
+[Client]
+	#Should horse armor be 'lighter' visually? This doesn't change the protection the armor gives.
+	"Minimal Horse Armor" = false
+
