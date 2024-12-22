@@ -9,6 +9,8 @@ create_power_loader-1.2.2-mc1.20.1
 ExplorersCompass-1.20.1-1.3.3-forge
 https://github.com/Cristelknight999/Cristel-Lib/issues/29 - Awaiting Response should allow me to config structures as already in pack preferable over sparse (if I can get it working sparse to be removed)
 Reactive music has note to say make sure to use yertt another configg farbric switched to fabric YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar
+Removed world preview (May wish to keep a list of modding tools for us so we can reinstall when developing pack))
+Sparse enabled for now while waiting for update
 
 better-end-sky-0.2.1+1.20
 ##### **4.12.24**
