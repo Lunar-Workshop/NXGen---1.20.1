@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","FreshAnimations_v1.9.2.zip","Whimscape x RPG Series.zip","Whimscape x Trinkets 1.3.zip","Whimscape_1.20-1.20.1_r3.zip","Whimscape_Leaves_1.20_r1.zip","Whimscape_x_EMI_1.20-1.20.4.zip","Whimscape_x_FreshAnimations_1.20-1.20.1_r2.zip","file/Simple Create Radios V1.2.zip","Moonlight Mods Dynamic Assets","fabric"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","fabric","Whimscape_1.20-1.20.1_r3.zip","Whimscape x Trinkets 1.3.zip","FreshAnimations_v1.9.2.zip","Whimscape_Leaves_1.20_r1.zip","Whimscape x RPG Series.zip","Whimscape_x_EMI_1.20-1.20.4.zip","Whimscape_x_FreshAnimations_1.20-1.20.1_r2.zip","Simple Create Radios V1.2.zip"]
 incompatibleResourcePacks:["Whimscape x RPG Series.zip"]
 lastServer:
 lang:en_us
@@ -72,10 +72,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -149,8 +149,8 @@ key_key.better_falling.accelerate_fall:key.keyboard.left.control
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.dragnlivestock.clear:key.keyboard.minus
-key_key.dragnlivestock.horse_speed_up:key.keyboard.left.control
-key_key.dragnlivestock.horse_slow_down:key.keyboard.left.alt
+key_key.dragnlivestock.horse_speed_up:key.keyboard.left.shift
+key_key.dragnlivestock.horse_slow_down:key.keyboard.left.control
 key_key.dragnlivestock.horse_bow:key.keyboard.b
 key_key.dragnlivestock.horse_piaffe:key.keyboard.p
 key_key.dragnlivestock.horse_spanish_walk_toggle:key.keyboard.down
@@ -171,19 +171,19 @@ key_keybindings.spell_engine.spell_hotbar_6:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
-key_Enabled/Disabled the visualizer:key.keyboard.b
+key_Enabled/Disabled the visualizer:key.keyboard.unknown
+key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.sethorse.desc:key.keyboard.p
 key_key.callhorse.desc:key.keyboard.v
 key_key.showstats.desc:key.keyboard.k
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.ponder:key.keyboard.w
-key_key.configured.open_mod_list:key.keyboard.unknown
-key_simpleclouds.key.openGenPreviewer:key.keyboard.f12
+key_simpleclouds.key.openGenPreviewer:key.keyboard.unknown
 key_key.diet.open.desc:key.keyboard.unknown
-key_key.fogoverrides.config_menu:key.keyboard.f8
-soundCategory_master:1.0
-soundCategory_music:0.05017400917130693
+key_key.firstperson.toggle:key.keyboard.f6
+soundCategory_master:0.26980016941321416
+soundCategory_music:0.33194603668522765
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
