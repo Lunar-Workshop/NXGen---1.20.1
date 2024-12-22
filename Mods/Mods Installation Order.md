@@ -1,6 +1,16 @@
+21/12/2024
+firstperson-forge-2.4.4-mc1.20.1
+Removed - Better end sky as it forces fog on submitted issue
+Removed - Configured for release candidate ( May wish to keep a list of modding tools for us so we can reinstall when developing pack)
+copycats-2.1.2+mc.1.20.1-forge
+oculus-mc1.20.1-1.7.0 - May pull from the pack as currently simple clouds not compatible + DH
+DistantHorizons-2.1.0-a-1.20.1 - May have accidentyly changed version please verify so i can revert
+create_power_loader-1.2.2-mc1.20.1
+ExplorersCompass-1.20.1-1.3.3-forge
+https://github.com/Cristelknight999/Cristel-Lib/issues/29 - Awaiting Response should allow me to config structures as already in pack preferable over sparse (if I can get it working sparse to be removed)
+Reactive music has note to say make sure to use yertt another configg farbric switched to fabric YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar
 
 better-end-sky-0.2.1+1.20
-fogoverrides-1.20.1-1.3
 ##### **4.12.24**
 Configured
 InControl 

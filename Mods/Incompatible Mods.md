@@ -9,7 +9,6 @@ Known Issue:
 - 
 - Removed and Disabled Mob Player Animator and Better Mob Combat conflicts with RPG series - mobplayeranimator-forge-1.20.1-1.3.2-all & bettermobcombat-fabric-1.20.1-1.2.4
 SWEM EQUASTRIAN - great mod really wanted to add way to much bloat
-
 - ToadLib 1.1.4 ensues wrath of the almighty THOR when you try to use enchantment table
 
  Easy Magic
