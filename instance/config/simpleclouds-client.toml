@@ -29,7 +29,7 @@ whitelistAsBlacklist = false
 #Specifies the type of world fog that should be used. Each has their own advantages and disadvantages, ranging from visual discrepancies to possible compatibility issues.
 #Default: SCREEN_SPACE
 #Allowed Values: VANILLA, SCREEN_SPACE, OFF
-fogMode = "SCREEN_SPACE"
+fogMode = "VANILLA"
 #Specifies if lightning should have slight random color variation.
 #Default: true
 lightningColorVariation = true
